@@ -1,0 +1,2 @@
+# ScripPratica
+Projeto Scrip
