@@ -1,3 +1,2 @@
 # ScripPratica
-Projeto Scrip
-TESTES
+Projeto Novo
