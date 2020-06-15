@@ -1,2 +1,2 @@
 # ScripPratica
-Projeto Scrip
+Projeto Novo
