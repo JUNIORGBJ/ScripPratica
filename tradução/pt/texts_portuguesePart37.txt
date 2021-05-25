@@ -50,23 +50,23 @@
 116201	We've been detected!
 116202	Awaiting target input.
 116203	Attack drone attached.
-116204	Assumindo controle.
-116205	Pronto para Conectar.
-116206	Conectando ao Setor.
-116207	Conexão on-line.
-116208	Coordenadas confirmadas!
-116209	Carregando protocolo de ataque!
-116210	Ordem de ataque confirmada!
-116211	Alvo destruído.
-116212	Alvo neutralizado.
-116213	Eliminado.
+116204	Assuming control.
+116205	Ready for tracking.
+116206	Connecting to tracking device.
+116207	Tracking systems online.
+116208	Target coordinates confirmed!
+116209	Loading attack protocol!
+116210	Attack order confirmed!
+116211	Target destroyed.
+116212	Target neutralized.
+116213	Eliminated.
 116214	Target area reached! Searching for object.
 116215	Target object nearby. Refine search patterns.
 116216	Switching to redefined search pattern. Target object in vicinity.
-116217	Objectivo alcançado.
-116218	OObjeto foi detectado
-116219	Localização encontrada.
-116339	Nosso jeito!
+116217	Objective reached.
+116218	Object successfully detected.
+116219	Object location found.
+116339	On our way!
 116268	Here comes a depression. So better resurrect your anoraks, folks. Some chilly winds blowing in from the Arctic Circle. Climate stabilizers, what would you do without them...
 116269	Thanks, Lloyd. For those who have just tuned in, I'm Lauren Beringer and this is "Global Warning" filling you in on what moves the world in 2205.
 116270	However, we're reaching out into orbit today. Live from the Moon we're linked to Virgil Drake, Executive Overseer of Mining for the Lunar Excavation Corp. Good morning, Mr. Drake.
@@ -141,31 +141,31 @@
 13000531	Invalid procedure! Please correct!
 109065	Ibarra-FoxCom
 109066	Research Manager
-109074	Eletrônicos
-109088	Ibarra-FoxCom é conhecida no mundo todo pelos comerciantes. Com duas suas duas corporaçãos a Ibarra-FoxCom juntou sua experiencia em eletrônica para ser o maior fornecedor de tecnologia da Terra: a maioria dos robôs domésticos, sistemas de comunicação e bio preparações modernas traz o nome Ibarra-FoxCom
+109074	Electronics
+109088	Ibarra-FoxCom is well-known to consumers everywhere on the globe. Consisting of two separate companies, Ibarra-FoxCom’s dual leadership once decided to pool their electronics expertise to form Earth’s biggest provider of everyday technology: Most home robots, communication systems and modern biopreparations bear the Ibarra-FoxCom label.
 109075	Cassian Industries
-109076	Assistente do Vice-Presidente
-109077	Industria Pesada
-109261	O principal fornecedor de recursos naturais e produtos da indústria pesada, Cassian Industries é um dos pilares do comércio global. Cassian é conhecida por suas políticas corporaçãoriais intransigentes. Isso os levou a um caminho de sucesso, mas também de isolamento. Hoje, ela coloca mais fundos em seu próprio programa espacial do que qualquer outra corporação.
+109076	Assistant to the Vice President
+109077	Heavy Industry
+109261	As the foremost provider of natural resources and heavy industry products, Cassian Industries is one of the pillars of global commerce. Cassian is known for its uncompromising business policies. It led them on a path of success, but also of isolation. Today, Cassian Industries puts more funds into their own space program than any other megacorporation.
 109078	Usoyev Inc.
-109079	Consultor
-109080	Biotecnologia
-109272	Usoyev Inc. é uma corporação tradicional, com quatro gerações de sucesso corporativo que continua atualizada. Mas isso pode mudar em pouco tempo. O antigo programa químico simplesmente não consegue sair do chão e a palavra diz que sua presença nas últimas plataformas de petróleo do Ártico é mais do que questionável.
+109079	Consultant
+109080	Biotech
+109272	Usoyev Inc. takes pride in being a traditional venture, looking back on four generations of continued corporate success while showing no signs of old age. Yet this could change before long. The old chemical group's space program just can't seem to get off the ground and word has it that their presence on the Arctic's last oil rigs is more than questionable.
 109081	Lei Sheng
-109082	Chefe de Inteligência
-109083	Energia
-109273	A queda da Global Trust há cinqüenta anos atrás levou a um escarceis de fornecimento de energia que Lei Sheng sabia como preencher.
+109082	Head of Intelligence
+109083	Energy
+109273	Once one of the leading actors on the corporate stage, Lei Sheng has been ill-starred for quite some time. Certainly, the fall of Global Trust fifty years ago led to an energy supply vacuum that Lei Sheng knew how to fill. But the energy corporation has been resting too long on these past successes and now has trouble to keep the pace.
 109084	Saayman International
-109085	Diretor de Assuntos Externos
-109087	Agricultura
-109287	Praticamente não existe nenhuma empresa com uma reputação tão elevada quanto a Saayman International. De uma associação de empresas rurais, Saayman cresceu e se tornou uma gigante da alimentação que hoje fornece alimentos diários para uma porcentagem considerável da população mundial. Saayman se tornou uma potência mundial por caminhos próprios, e as ambições da empresa não são apenas econômicas, mas também políticas.
-113969	Trabalho de Alto Risco
-113970	Complete a Fase 1 do Programa de Licenciamento Lunar.
-113971	A Segunda Onda
+109085	Officer for External Affairs
+109087	Agriculture
+109287	There is hardly a company out there that is held in higher esteem than Saayman International. From a small association of farming enterprises, Saayman grew into a food giant that now provides a considerable percentage of the global population with their daily bread. Saayman has become a world power in its own right and the corporation's ambitions are political, as well as economical.
+113969	High-Wire Act
+113970	Complete Phase 1 of the Lunar Licensing Program.
+113971	The Second Wave
 113972	Complete Phase 2 of the Lunar Licensing Program.
-113975	Energia ilimitada
+113975	Unlimited Energy
 113974	Complete Phase 3 of the Lunar Licensing Program.
-114437	Uma questão para o chefe
+114437	A Matter For The Boss
 114438	Complete 10 optional Assignments.
 114439	A Company of Good Record
 114440	Complete 100 optional Assignments.
@@ -311,6 +311,6 @@
 116525	Have a workforce of 300 on the Moon.
 117819	Entertainment Pioneers
 117820	Choose a special corporation name.
-117821	Biotecnología Pioneers
+117821	Biotech Pioneers
 117822	Choose a special corporation name.
 117823	A.I. Pioneers
