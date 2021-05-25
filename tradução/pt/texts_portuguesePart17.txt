@@ -110,7 +110,7 @@
 999017	Backspace
 999018	Tab
 999019	CapsLock
-999020	Retornar
+999020	Return
 999021	Shift
 999022	Shift
 999023	Ctrl
@@ -119,7 +119,7 @@
 999026	Alt
 999027	Windows
 999028	Windows
-999029	Espaço
+999029	Space
 999030	Menu
 999031	1
 999032	2
@@ -163,27 +163,27 @@
 999070	End
 999071	PageUp
 999072	PageDown
-999073	Esquerda
-999074	Direita
-999075	Acima
-999076	Baixo
+999073	Left
+999074	Right
+999075	Up
+999076	Down
 999077	Numlock
-999078	Num. *
-999079	Num. /
-999080	Num. +
-999081	Num. -
-999082	Num. Enter
-999083	Num. Decimal
-999084	Num. 1
-999085	Num. 2
-999086	Num. 3
-999087	Num. 4
-999088	Num. 5
-999089	Num. 6
-999090	Num. 7
-999091	Num. 8
-999092	Num. 9
-999093	Num. 0
+999078	Keypad *
+999079	Keypad /
+999080	Keypad +
+999081	Keypad -
+999082	Keypad Enter
+999083	Keypad Decimal
+999084	Keypad 1
+999085	Keypad 2
+999086	Keypad 3
+999087	Keypad 4
+999088	Keypad 5
+999089	Keypad 6
+999090	Keypad 7
+999091	Keypad 8
+999092	Keypad 9
+999093	Keypad 0
 999094	,
 999095	.
 999096	+
@@ -199,118 +199,118 @@
 999106	Э
 999107	Ж
 999108	Х
-102720	[NOTIFICATION_CHARACTER_NAME] veio pedir sua ajuda.
-105242	[NOTIFICATION_CHARACTER_NAME] Lhe oferece uma tarefa.
-119832	[NOTIFICATION_CHARACTER_NAME] tem uma proposta a fazer.
-117737	[NOTIFICATION_CHARACTER_NAME] que bom que você aceitou.
-119810	[NOTIFICATION_CHARACTER_NAME] confia em você.
-119833	[NOTIFICATION_CHARACTER_NAME] aguarda os resultados.
-102716	[NOTIFICATION_CHARACTER_NAME] está feliz como as coisas foram feitas.
-102717	[NOTIFICATION_CHARACTER_NAME] elogia seu compromisso com o sucesso.
-105247	[NOTIFICATION_CHARACTER_NAME] agradece pelo seu apoio
-102718	[NOTIFICATION_CHARACTER_NAME] esperava um melhor resultado.
-105248	[NOTIFICATION_CHARACTER_NAME] considera a cessação da tarefa.
-105249	[NOTIFICATION_CHARACTER_NAME] está insatisfeito como as coisas acabaram.
-117738	[NOTIFICATION_CHARACTER_NAME] está decepcionado com você.
-119812	[NOTIFICATION_CHARACTER_NAME] aceitou sua escolha
-119837	[NOTIFICATION_CHARACTER_NAME] gostaria que você tivesse decidido de outra forma.
-120922	[NOTIFICATION_CHARACTER_NAME] está feliz como tudo foi realizado e oferece-lhe uma nova missão.
-120923	[NOTIFICATION_CHARACTER_NAME] elogiou seu compromisso com o sucesso.
-120924	[NOTIFICATION_CHARACTER_NAME] agradece pelo seu apoio e tem outra proposta para você.
-118155	[NOTIFICATION_CHARACTER_NAME] comentou sobre o evento especial de hoje.
-119813	[NOTIFICATION_CHARACTER_NAME] ameaça intervir.
-119814	[NOTIFICATION_CHARACTER_NAME] considera seus esforços fúteis desde o início.
-119815	[NOTIFICATION_CHARACTER_NAME] achava que não seria capaz de desviar seus planos.
-119816	[NOTIFICATION_CHARACTER_NAME] está determinado a fazer você pagar por isso.
-120612	[NOTIFICATION_CHARACTER_NAME] zomba da sua credulidade.
-120617	[NOTIFICATION_CHARACTER_NAME] está indignado que você ouse atacá-lo.
-120619	Sua ganância e impiedade despreza [NOTIFICATION_CHARACTER_NAME].
-120620	[NOTIFICATION_CHARACTER_NAME] não será interrompido por você.
-119817	[NOTIFICATION_CHARACTER_NAME] vê suas expectativas validadas.
-119819	[NOTIFICATION_CHARACTER_NAME] tem prazer em sua falha.
-119818	[NOTIFICATION_CHARACTER_NAME] sabia que você não seria uma ameaça real.
-119820	[NOTIFICATION_CHARACTER_NAME] sua aposentadoria o diverte.
-120337	[NOTIFICATION_CHARACTER_NAME] deixa claro que isso pertence ao seu território.
-120338	[NOTIFICATION_CHARACTER_NAME] tenta esconder a raiva que você sente por ter destruído isso.
-120339	[NOTIFICATION_CHARACTER_NAME] orgulha-se do perigo de sua tecnologia militar.
-120340	[NOTIFICATION_CHARACTER_NAME] jura vingança pela destruição de seu barco.
-119768	[NOTIFICATION_CHARACTER_NAME] dá as boas-vindas à sua ilha.
-119769	[NOTIFICATION_CHARACTER_NAME] cita projeto de pesquisa na área.
-119770	[NOTIFICATION_CHARACTER_NAME] exorta você a construir um espaçoporto primeiro.
-119771	[NOTIFICATION_CHARACTER_NAME] sugira aderir ao projeto, pois é em sua propriedade.
-119772	[NOTIFICATION_CHARACTER_NAME] espera ver o desenvolvimento urbano neste setor.
-119773	[NOTIFICATION_CHARACTER_NAME] te indica a presença de um agente dos Grande Cinco na barragem.
-119774	[NOTIFICATION_CHARACTER_NAME] quer que você mantenha isso em mente, mas se concentre no espaçoporto.
-119775	[NOTIFICATION_CHARACTER_NAME] acha que, uma vez reparada, a barragem será lucrativa.
-119776	[NOTIFICATION_CHARACTER_NAME] ensina o setor.
-119783	[NOTIFICATION_CHARACTER_NAME] te fala sobre o ambicioso projeto de seu colega neste lugar.
-119790	[NOTIFICATION_CHARACTER_NAME] quer que você cuide primeiro do espaçoporto.
-119797	[NOTIFICATION_CHARACTER_NAME] revela que a União Global está impressionada com o seu progresso.
-119777	[NOTIFICATION_CHARACTER_NAME] explica como as temperaturas são mantidas abaixo de zero.
-119784	[NOTIFICATION_CHARACTER_NAME] revela que muitos estão interessados ​​nesta área.
-119791	[NOTIFICATION_CHARACTER_NAME] apresenta-se e avisa para obedecer às regras dele.
-119798	[NOTIFICATION_CHARACTER_NAME] explica que um dos Grande Cinco membros é especialmente ativo.
-119778	[NOTIFICATION_CHARACTER_NAME] maravilha-se com a forma como o gelo é preservado com tecnologia.
-119785	[NOTIFICATION_CHARACTER_NAME] está descontente com o vazamento de restos de plataformas de petróleo.
-119792	[NOTIFICATION_CHARACTER_NAME] apresenta-se e avisa para obedecer às regras dele.
-119799	[NOTIFICATION_CHARACTER_NAME] especula sobre um membro dos Grande Cinco ter oferecido ajuda no assunto.
-119779	[NOTIFICATION_CHARACTER_NAME] maravilha-se com o que a tecnologia de estabilização do clima pode fazer.
-119786	[NOTIFICATION_CHARACTER_NAME] fala sobre estabilizadores de clima.
-119793	[NOTIFICATION_CHARACTER_NAME] apresenta-se e avisa para obedecer às regras dele.
-119800	[NOTIFICATION_CHARACTER_NAME] teme que você tenha que ajudar a consertar aquele neste setor.
-119780	[NOTIFICATION_CHARACTER_NAME] vê potencial neste setor.
-119787	[NOTIFICATION_CHARACTER_NAME] pede que você tome cuidado com o território da Guarda Orbital nas proximidades.
-119794	[NOTIFICATION_CHARACTER_NAME] quer que você permaneça em alerta.
-119801	[NOTIFICATION_CHARACTER_NAME] quer que você investigue alguns movimentos intrigantes.
-119781	[NOTIFICATION_CHARACTER_NAME] apresenta a área para você.
-119788	[NOTIFICATION_CHARACTER_NAME] explica que impactos de meteoritos são comuns por aqui.
-119795	[NOTIFICATION_CHARACTER_NAME] prioriza o estabelecimento de um assentamento aqui.
-119802	[NOTIFICATION_CHARACTER_NAME] te informa que um membro dos Cinco Grandes planeja explorá-los.
-119782	[NOTIFICATION_CHARACTER_NAME] está maravilhado com a paisagem.
-119789	[NOTIFICATION_CHARACTER_NAME] fala sobre como esse setor era voltado para os turistas.
-119796	[NOTIFICATION_CHARACTER_NAME] lembra você de suas responsabilidades como colono da Segunda Onda.
-119803	[NOTIFICATION_CHARACTER_NAME] sugere seguir esta ideia.
-119942	[NOTIFICATION_CHARACTER_NAME] tem pensamentos sobre sequestradores invadindo barcos da União.
-119943	[NOTIFICATION_CHARACTER_NAME] sabe que apenas uma intervenção militar vai impedir isso.
-119944	[NOTIFICATION_CHARACTER_NAME] garante que você pode contar com seu apoio.
-119945	[NOTIFICATION_CHARACTER_NAME] ladra ordens para seus inferiores.
-119946	[NOTIFICATION_CHARACTER_NAME] informa que a Guarda Orbital bloqueia todas as naves que tentam passar por aqui.
-119947	[NOTIFICATION_CHARACTER_NAME] quer que você rompa e liberte os transportadores.
-119948	[NOTIFICATION_CHARACTER_NAME] informa sobre os transmissores de interferência controlando os estabilizadores.
-119949	[NOTIFICATION_CHARACTER_NAME] ele está feliz por você oferecer apoio militar.
-119950	[NOTIFICATION_CHARACTER_NAME] cede às ilusões de grandeza.
-119951	[NOTIFICATION_CHARACTER_NAME] se desespera ao ver o avanço da Guarda Orbital.
-119952	[NOTIFICATION_CHARACTER_NAME] admite que não pode lidar com essa ameaça, ao contrário de você.
-119953	[NOTIFICATION_CHARACTER_NAME] já se considera o vencedor deste confronto.
-119954	[NOTIFICATION_CHARACTER_NAME] apresenta a antiga base oculta da Guarda Orbital.
-119955	[NOTIFICATION_CHARACTER_NAME] deseja que você o leve aos pontos de acesso do servidor.
-119956	[NOTIFICATION_CHARACTER_NAME] dá as boas-vindas ao seu território com armas em punho.
-119707	[NOTIFICATION_CHARACTER_NAME] comenta sobre sua cooperação com a Ibarra-FoxCom.
-119715	[NOTIFICATION_CHARACTER_NAME] comenta sobre sua cooperação com a Indústrias Cassian.
-119716	[NOTIFICATION_CHARACTER_NAME] comenta sobre sua cooperação com a Usoyev Inc.
-119717	[NOTIFICATION_CHARACTER_NAME] comenta sobre sua cooperação com a Lei Sheng.
-119718	[NOTIFICATION_CHARACTER_NAME] comenta sobre sua cooperação com a Saayman Internacional.
-119719	[NOTIFICATION_CHARACTER_NAME] comenta sobre sua cooperação com a Nik Papadakis.
-119720	[NOTIFICATION_CHARACTER_NAME] comenta sobre sua cooperação com a Ville Jorgensen.
-119721	[NOTIFICATION_CHARACTER_NAME] comenta sua ajuda a Zandra Haynes.
-119722	[NOTIFICATION_CHARACTER_NAME] comenta sua cooperação com Howard Young.
-119723	[NOTIFICATION_CHARACTER_NAME] comenta suas ações tomadas contra Virgil Drake.
-119724	[NOTIFICATION_CHARACTER_NAME] comenta sua cooperação com esta pessoa misteriosa.
-119725	[NOTIFICATION_CHARACTER_NAME] comenta sua ajuda a John Rafferty.
-120341	[NOTIFICATION_CHARACTER_NAME] apóia sua expansão corporativa.
-119886	[NOTIFICATION_CHARACTER_NAME] fornece um drone de ataque em seu espaçoporto.
-120683	[NOTIFICATION_CHARACTER_NAME] fornece um drone de rastreamento em seu espaçoporto.
-120215	[NOTIFICATION_CHARACTER_NAME] confirma que a barragem de artilharia foi disparada.
-120216	[NOTIFICATION_CHARACTER_NAME] enviou reforços e eles estão a caminho.
-120217	[NOTIFICATION_CHARACTER_NAME] detona uma bomba de pulso eletromagnético.
-120218	[NOTIFICATION_CHARACTER_NAME] libera os drones de reparo.
-120219	[NOTIFICATION_CHARACTER_NAME] confirma que os escudos de energia estão todos ativos.
-120220	[NOTIFICATION_CHARACTER_NAME] não tem duvida essa mina de ondas cause ondulações.
-117676	[NOTIFICATION_CHARACTER_NAME] requer que você siga as regras dos curadores.
-119836	[NOTIFICATION_CHARACTER_NAME] está feliz com o [GUIDNAME 1000182] na vizinhança.
-119838	[NOTIFICATION_CHARACTER_NAME] está feliz com a [GUIDNAME 1000181] na vizinhança.
-119839	[NOTIFICATION_CHARACTER_NAME] está feliz com o [GUIDNAME 1000233] na vizinhança.
-119840	[NOTIFICATION_CHARACTER_NAME] está feliz com o [GUIDNAME 1000234] na vizinhança.
-119841	[NOTIFICATION_CHARACTER_NAME] está feliz com o [GUIDNAME 1000245] na vizinhança.
-119842	[NOTIFICATION_CHARACTER_NAME] está feliz com a [GUIDNAME 1000246] na vizinhança.
-119843	[NOTIFICATION_CHARACTER_NAME] está feliz com a [GUIDNAME 1000235] na vizinhança.
+102720	[NOTIFICATION_CHARACTER_NAME] approaches you for help.
+105242	[NOTIFICATION_CHARACTER_NAME] offers you an assignment.
+119832	[NOTIFICATION_CHARACTER_NAME] has a proposal for you.
+117737	[NOTIFICATION_CHARACTER_NAME] is glad you accepted.
+119810	[NOTIFICATION_CHARACTER_NAME] puts trust in you.
+119833	[NOTIFICATION_CHARACTER_NAME] looks forward to the results.
+102716	[NOTIFICATION_CHARACTER_NAME] is happy about the way things were done.
+102717	[NOTIFICATION_CHARACTER_NAME] praises your commitment to success.
+105247	[NOTIFICATION_CHARACTER_NAME] thanks you for your support.
+102718	[NOTIFICATION_CHARACTER_NAME] had hoped for a better outcome.
+105248	[NOTIFICATION_CHARACTER_NAME] considers the assignment suspended.
+105249	[NOTIFICATION_CHARACTER_NAME] is dissatisfied with how things turned out.
+117738	[NOTIFICATION_CHARACTER_NAME] is disappointed in you.
+119812	[NOTIFICATION_CHARACTER_NAME] accepts your refusal.
+119837	[NOTIFICATION_CHARACTER_NAME] wishes you had decided differently.
+120922	[NOTIFICATION_CHARACTER_NAME] is happy how everything was carried out and offers you a new assignment.
+120923	[NOTIFICATION_CHARACTER_NAME] praises your commitment to success and approaches you for help again.
+120924	[NOTIFICATION_CHARACTER_NAME] thanks you for your support and has another proposal for you.
+118155	[NOTIFICATION_CHARACTER_NAME] comments on today's special event.
+119813	[NOTIFICATION_CHARACTER_NAME] threatens you to not interfere.
+119814	[NOTIFICATION_CHARACTER_NAME] deems your efforts futile right from the start.
+119815	[NOTIFICATION_CHARACTER_NAME] didn't think you'd be able foil his plans.
+119816	[NOTIFICATION_CHARACTER_NAME] is determined to make you pay for this.
+120612	[NOTIFICATION_CHARACTER_NAME] sneers at your credulity.
+120617	[NOTIFICATION_CHARACTER_NAME] is outraged you'd dare to attack him.
+120619	Your greed and ruthlessness disgusts [NOTIFICATION_CHARACTER_NAME].
+120620	[NOTIFICATION_CHARACTER_NAME] will not be stopped by you.
+119817	[NOTIFICATION_CHARACTER_NAME] sees his expectations validated.
+119819	[NOTIFICATION_CHARACTER_NAME] delights in your failure.
+119818	[NOTIFICATION_CHARACTER_NAME] knew you'd be no real threat.
+119820	[NOTIFICATION_CHARACTER_NAME] is amused about your retreat.
+120337	[NOTIFICATION_CHARACTER_NAME] makes clear this belongs to his territory.
+120338	[NOTIFICATION_CHARACTER_NAME] tries to mask his anger about you having destroyed this.
+120339	[NOTIFICATION_CHARACTER_NAME] brags about the dangerousness of his military technology.
+120340	[NOTIFICATION_CHARACTER_NAME] vows vengeance for the destruction of his ship.
+119768	[NOTIFICATION_CHARACTER_NAME] welcomes you to your island.
+119769	[NOTIFICATION_CHARACTER_NAME] mentions an ongoing research project in the area.
+119770	[NOTIFICATION_CHARACTER_NAME] urges you to construct a spaceport first.
+119771	[NOTIFICATION_CHARACTER_NAME] suggests joining the project as it's on your property.
+119772	[NOTIFICATION_CHARACTER_NAME] is looking forward to the urban development of this sector.
+119773	[NOTIFICATION_CHARACTER_NAME] points you to a Big Five agent's presence at the dam.
+119774	[NOTIFICATION_CHARACTER_NAME] wants you to keep it in mind, but to focus on the spaceport.
+119775	[NOTIFICATION_CHARACTER_NAME] thinks the dam would be profitable when repaired.
+119776	[NOTIFICATION_CHARACTER_NAME] shows you around the sector.
+119783	[NOTIFICATION_CHARACTER_NAME] tells you about her colleague's ambitious project here.
+119790	[NOTIFICATION_CHARACTER_NAME] wants you to first take care of the spaceport however.
+119797	[NOTIFICATION_CHARACTER_NAME] reveals that the Global Union is in awe of your progress.
+119777	[NOTIFICATION_CHARACTER_NAME] explains how the temperatures are kept below zero.
+119784	[NOTIFICATION_CHARACTER_NAME] reveals that many are interested in this area.
+119791	[NOTIFICATION_CHARACTER_NAME] introduces himself and warns you to abide by his rules.
+119798	[NOTIFICATION_CHARACTER_NAME] elaborates that one Big Five member is especially active.
+119778	[NOTIFICATION_CHARACTER_NAME] marvels at the ice preserved by technology.
+119785	[NOTIFICATION_CHARACTER_NAME] is displeased about leaking remnants of oil rigs.
+119792	[NOTIFICATION_CHARACTER_NAME] introduces himself and warns you to abide by his rules.
+119799	[NOTIFICATION_CHARACTER_NAME] speculates about a Big Five member having offered help in the matter.
+119779	[NOTIFICATION_CHARACTER_NAME] marvels at what climate stabilization technology can do.
+119786	[NOTIFICATION_CHARACTER_NAME] talks about climate stabilizers.
+119793	[NOTIFICATION_CHARACTER_NAME] introduces himself and warns you to abide by his rules.
+119800	[NOTIFICATION_CHARACTER_NAME] fears you will have to help fix the one in this sector.
+119780	[NOTIFICATION_CHARACTER_NAME] sees potential in this sector.
+119787	[NOTIFICATION_CHARACTER_NAME] asks you to be cautious with the nearby Orbital Watch territory.
+119794	[NOTIFICATION_CHARACTER_NAME] wants you to remain vigilant.
+119801	[NOTIFICATION_CHARACTER_NAME] wants you to investigate disconcerting movements.
+119781	[NOTIFICATION_CHARACTER_NAME] gives you an introduction on the area.
+119788	[NOTIFICATION_CHARACTER_NAME] explains that meteorite impacts are common here.
+119795	[NOTIFICATION_CHARACTER_NAME] puts establishing a settlement before everything else.
+119802	[NOTIFICATION_CHARACTER_NAME] tells you about a Big Five member's plans to mine them.
+119782	[NOTIFICATION_CHARACTER_NAME] is in awe of the scenery.
+119789	[NOTIFICATION_CHARACTER_NAME] talks about how this sector was meant for tourists.
+119796	[NOTIFICATION_CHARACTER_NAME] reminds you of your responsibilities as a Second Wave settler.
+119803	[NOTIFICATION_CHARACTER_NAME] suggests following this idea.
+119942	[NOTIFICATION_CHARACTER_NAME] verses this thoughts about hijackers raiding Union ships.
+119943	[NOTIFICATION_CHARACTER_NAME] knows that only military intervention will stop this.
+119944	[NOTIFICATION_CHARACTER_NAME] ensures you that you can rely on his support.
+119945	[NOTIFICATION_CHARACTER_NAME] barks orders at his inferiors.
+119946	[NOTIFICATION_CHARACTER_NAME] informs you, that the Orbital Watch blocks all ships going through here.
+119947	[NOTIFICATION_CHARACTER_NAME] wants you to break through and free the transporters.
+119948	[NOTIFICATION_CHARACTER_NAME] tells you about interference transmitters controlling the stabilizers.
+119949	[NOTIFICATION_CHARACTER_NAME] is glad you're giving military support.
+119950	[NOTIFICATION_CHARACTER_NAME] gives in to delusions of grandeur.
+119951	[NOTIFICATION_CHARACTER_NAME] yields to despair, seeing the Orbital Watch advance.
+119952	[NOTIFICATION_CHARACTER_NAME] admits they can't cope with this threat, unlike you.
+119953	[NOTIFICATION_CHARACTER_NAME] already regards himself the winner of this confrontation.
+119954	[NOTIFICATION_CHARACTER_NAME] introduces you to the Orbital Watch's formerly hidden base.
+119955	[NOTIFICATION_CHARACTER_NAME] wants you to bring her to server access points.
+119956	[NOTIFICATION_CHARACTER_NAME] welcomes you to his territory, weapons at the ready.
+119707	[NOTIFICATION_CHARACTER_NAME] comments on your cooperation with Ibarra-FoxCom.
+119715	[NOTIFICATION_CHARACTER_NAME] comments on your cooperation with Cassian Industries.
+119716	[NOTIFICATION_CHARACTER_NAME] comments on your cooperation with Usoyev Inc.
+119717	[NOTIFICATION_CHARACTER_NAME] comments on your cooperation with Lei Sheng.
+119718	[NOTIFICATION_CHARACTER_NAME] comments on your cooperation with Saayman International.
+119719	[NOTIFICATION_CHARACTER_NAME] comments on your cooperation with Nik Papadakis.
+119720	[NOTIFICATION_CHARACTER_NAME] comments on your cooperation with Ville Jorgensen.
+119721	[NOTIFICATION_CHARACTER_NAME] comments on you helping Zandra Haynes.
+119722	[NOTIFICATION_CHARACTER_NAME] comments on your cooperation with Howard Young.
+119723	[NOTIFICATION_CHARACTER_NAME] comments on your actions taken against Virgil Drake.
+119724	[NOTIFICATION_CHARACTER_NAME] comments on your cooperation with this mysterious person.
+119725	[NOTIFICATION_CHARACTER_NAME] comments on you helping John Rafferty.
+120341	[NOTIFICATION_CHARACTER_NAME] is supportive of your corporate expansion.
+119886	[NOTIFICATION_CHARACTER_NAME] provides an attack drone at your spaceport.
+120683	[NOTIFICATION_CHARACTER_NAME] provides a tracking drone at your spaceport.
+120215	[NOTIFICATION_CHARACTER_NAME] confirms the artillery barrage has been fired.
+120216	[NOTIFICATION_CHARACTER_NAME] sends reinforcements on the way.
+120217	[NOTIFICATION_CHARACTER_NAME] sparks off an electromagnetic pulse bomb.
+120218	[NOTIFICATION_CHARACTER_NAME] releases the repair drones.
+120219	[NOTIFICATION_CHARACTER_NAME] confirms the energy shields are all ramped up.
+120220	[NOTIFICATION_CHARACTER_NAME] is positive this wave mine will cause ripples.
+117676	[NOTIFICATION_CHARACTER_NAME] demands that you adhere to the Custodians' rules.
+119836	[NOTIFICATION_CHARACTER_NAME] is happy about the [GUIDNAME 1000182] in the neighborhood.
+119838	[NOTIFICATION_CHARACTER_NAME] is happy about the [GUIDNAME 1000181] in the neighborhood.
+119839	[NOTIFICATION_CHARACTER_NAME] is happy about the [GUIDNAME 1000233] in the neighborhood.
+119840	[NOTIFICATION_CHARACTER_NAME] is happy about the [GUIDNAME 1000234] in the neighborhood.
+119841	[NOTIFICATION_CHARACTER_NAME] is happy about the [GUIDNAME 1000245] in the neighborhood.
+119842	[NOTIFICATION_CHARACTER_NAME] is happy about the [GUIDNAME 1000246] in the neighborhood.
+119843	[NOTIFICATION_CHARACTER_NAME] is happy about the [GUIDNAME 1000235] in the neighborhood.
