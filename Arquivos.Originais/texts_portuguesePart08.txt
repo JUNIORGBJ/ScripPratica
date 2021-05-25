@@ -1,0 +1,316 @@
+116803	Advanced Settings
+116804	Launch
+116838	Enable Story mode
+116839	Unlock all
+116843	Workforce
+117111	Please choose a shorter name
+117112	Please do not use special characters
+117987	This corporation name has already been assigned to another corporation.
+119846	1. Corporation Name
+119847	2. Corporation Logo
+119848	3. Starting Sector
+119849	4. Game Difficulty
+120372	<font face="Roboto Medium">Global Gameplay Options</font> - Can be changed at any time later
+121382	Difficulty Options
+121384	Industry Modes <font [GUI_COLOR BlueLight]>(Unlocked by achieving industry dominance with a previous corporation)</font>
+121392	Competitor Growth
+121393	Facility Auctions
+121394	Agricultural Mode
+121395	Biotech Mode
+121396	Electronics Mode
+121397	Energy Mode
+121398	Heavy Industry Mode
+121191	Administration costs rise with your total employee count and the amount of transfer routes. Building new Distribution Centers requires an expansion fee which increases with the amount of already existing ones.
+100552	PHENIX ENTERPRISE
+114629	Delete Corporation
+114630	Do you really want to delete this corporation?
+119757	Default
+100822	Assignments
+100825	Optional Assignments
+100829	New Assignments coming soon
+100830	Rewards
+100831	Completed
+100832	Available
+100833	Rewards collected!
+100834	In Progress
+101031	Objectives
+102520	[QUEST_ACT_TEXT] - [QUEST_CHAPTER_TEXT]
+102731	Mandatory Quest
+102758	New request from [GUIDNAME]
+102759	Collect
+103019	Dismiss
+103020	Collect
+100823	Docks
+103123	<font face="Roboto Medium">Earth</font> Fleet
+103124	<font face="Roboto Medium">Arctic</font> Fleet
+103125	<font face="Roboto Medium">Moon</font> Fleet
+103179	Vehicle Details
+103215	Repair
+103242	Construction Costs
+103244	Delete Ship
+103245	Create Ship
+103246	Current Vehicle
+105165	Fleet Management
+105166	Military Research
+105253	Earth
+105254	Arctic
+105256	Moon
+105760	Upgrade Fleet
+105761	Upgrade Special Action
+105762	Construction & Trade Vehicles
+105763	Spaceport Modules
+105764	Trade Vehicles & Modules
+117943	Start Credits
+117939	Revenue
+117948	Warehouse Output
+117935	Emergency Loans
+117944	Construction Costs Refund
+117949	Optional Assignment Frequency
+117953	Optional Assignment Rewards
+117954	Hidden Containers
+117956	Military Progress
+117959	Relocate Buildings
+121213	Inactive Costs
+121214	Assignment Time
+117940	Plenty
+117941	Medium
+117942	Sparse
+121138	Meager
+121184	Meager
+117937	Lax Conditions
+117938	Hard Conditions
+117936	No Loans
+117945	Full
+117946	Half
+117947	None
+121211	Fee
+117950	Often
+117951	Normal
+117952	Off
+117955	On
+117957	Fast
+117958	Slow
+121134	Cheap
+121135	Moderate
+121136	Expensive
+121137	Overpriced
+121215	No Limit
+121216	Long
+121217	Medium
+121218	Short
+121259	Seldom
+121260	Regular
+121261	Frequent
+103032	Corporation Profile
+105627	Account Limit
+105820	Standard
+105821	Advanced
+105822	Expert
+121118	Veteran
+106006	<font face="Roboto Medium">Relaxing game for builders</font>
+106007	<font face="Roboto Medium">Challenging game for strategists</font>
+106008	<font face="Roboto Medium">For experienced ANNO players</font>
+121185	<font face="Roboto Medium">Where perfectionists meet their match</font>
+105828	100.000 start-up capital
+105829	Increased warehouse output
+105830	Increased revenue per employee
+121192	Full construction refund
+121193	Free building relocation
+121194	Bailouts and no bankruptcy
+108234	75.000 start-up capital
+108235	Regular warehouse output
+108236	Regular revenue per employee
+121195	Full construction refund
+121196	Cost for building relocation
+121197	Bailouts and no bankruptcy
+108237	50.000 start-up capital
+108238	Reduced warehouse output
+108239	Reduced revenue per employee
+121198	Full construction refund
+121199	Cost for building relocation
+121200	No bailouts, bankruptcy leads to permanent loss of your corporation
+117778	Corporation Selection
+105768	NO LOCA Trader Vehicles
+119964	Difficulty [DIFFICULTY_NAME_CORPORATION_CREATION]
+119965	Rates the difficulty based on currently selected privilege settings.
+119983	Create Corporation?
+121201	50,000 start-up capital
+121202	Reduced warehouse output
+121203	Reduced revenue per employee
+121204	Demolition costs
+121205	No building relocation
+121206	No bailouts, bankruptcy leads to permanent loss of your corporation
+120933	No-name Company
+122135	Micro-Enterprise
+122136	Local Business
+114487	Startup Company
+114490	Insider Tip
+114489	Local Competitor
+114496	Customer's Favorite
+114488	Small Enterprise
+122137	Surprise Success
+114491	Local Leader
+114492	Mid-Size Business
+122138	Dark Horse
+122139	Hit Producer
+114493	National Competitor
+122140	Rising Star
+114494	Market Challenger
+122141	Disruptive Company
+114500	Monopoly Holder
+122142	National Leader
+122143	Production Syndicate
+114495	Major Corporation
+114498	Stock Company
+122144	Invisible Hand
+122145	Political Consortium
+114503	Pacesetter
+122146	Financial Syndicate
+114504	Cartel Crusher
+114497	Iconic Enterprise
+114505	Government Substitute
+122147	History Shaper
+114502	MegaCorp
+114501	Interplanetary Business
+114499	World Beater
+122148	Metanational Syndicate
+122149	Planetary Accelerator
+122150	Apex Capitalst
+122151	Transnational Corporation
+122152	Future Shaper
+114506	Intercosmic Megacompany
+122153	Evolutionary Accelerator
+122154	Planetary Consortium
+103034	Total employee count needed for next level
+103035	Add a friend
+103070	Ranking
+114486	Level
+119984	Achievement Points
+120946	Ranking
+103071	Blueprints
+120945	Blueprints unlocked
+108438	Voting
+108439	Current Effects
+108957	<li>[GUIDNAME 108962]</li><br /><li>[GUIDNAME 108963]</li>
+108958	<li>[GUIDNAME 108965]</li><br /><li>[GUIDNAME 108966]</li>
+108959	<li>[GUIDNAME 108968]</li><br /><li>[GUIDNAME 108969]</li>
+108960	<li>[GUIDNAME 108971]</li><br /><li>[GUIDNAME 108972]</li>
+108961	<li>[GUIDNAME 108974]</li><br /><li>[GUIDNAME 108975]</li>
+108962	[GUIDNAME 109074] facilities construction cost discount
+108963	[GUIDNAME 109074] goods become cheaper on the world market
+108965	[GUIDNAME 109077] facilities construction cost discount
+108966	[GUIDNAME 109077] goods become cheaper on the world market
+108968	[GUIDNAME 109080] facilities construction cost discount
+108969	[GUIDNAME 109080] goods become cheaper on the world market
+108971	[GUIDNAME 109083] facilities construction cost discount
+108972	[GUIDNAME 109083] goods become cheaper on the world market
+108974	[GUIDNAME 109087] facilities construction cost discount
+108975	[GUIDNAME 109087] goods become cheaper on the world market
+114599	[NOTIFICATION_CHARACTER_NAME] offers you to vote in the Council elections at the Global Union space station.
+114600	[NOTIFICATION_CHARACTER_NAME] expresses gratitude for your support during the last election cycle.
+114601	[NOTIFICATION_CHARACTER_NAME] finds your lack faith disturbing.
+115465	[NOTIFICATION_CHARACTER_NAME] wants you to take part in the Council votings to to exercise influence on the Big Five.
+115466	[NOTIFICATION_CHARACTER_NAME] welcomes you.
+115469	[NOTIFICATION_CHARACTER_NAME] realizes that you didn't bring yourself to a decision.
+115470	[NOTIFICATION_CHARACTER_NAME] encourages you to exercise your voting right next time.
+100144	The Council
+108284	Modules
+108285	Discounts
+108288	Vote
+108457	Council election period ends at
+108459	Effects end at
+108503	Branded modules available
+108504	Collect modules
+108568	You will receive rare materials by voting for them.
+108951	Processing data for next voting period. Please come back soon.
+108956	Voting Rewards
+108977	Branded Modules
+114597	Bribe
+116711	ModulePermitIcon
+116712	MarketPriceIcon
+116713	BuildCostIcon
+108737	Achievements
+108738	Achievement Points
+108739	Points
+108740	Completed on
+120940	Achievements unlocked
+120990	[ACHIEVEMENT_COUNT_CUR] / [ACHIEVEMENT_COUNT_MAX]
+119728	[INLINE_ICON] [GUIDNAME] [NEWS_TICKER_PRODUCT_ARROW] [NEWS_TICKER_START_COLORED_VALUE_TAG][NEWS_TICKER_PRODUCT_PRICE] [INLINE_ICON 2001001] [NEWS_TICKER_PRODUCT_PRICE_CHANGE]%</font>
+120944	[INLINE_ICON [WORLD_MARKET_EVENT_ACTOR_ICON]] [WORLD_MARKET_EVENT_ACTOR] - [WORLD_MARKET_EVENT_TEXT] - [GUIDNAME] [WORLD_MARKET_EVENT_PRICE_DEVELOPMENT] - [INLINE_ICON] [GUIDNAME] [NEWS_TICKER_PRODUCT_ARROW] [NEWS_TICKER_START_COLORED_VALUE_TAG][NEWS_TICKER_PRODUCT_PRICE] [INLINE_ICON 2001001] [NEWS_TICKER_PRODUCT_PRICE_CHANGE]%</font>
+119729	|
+119730	<font [GUI_COLOR TorquoiseComplementaryLight6] face="Roboto Medium">
+119731	<font [GUI_COLOR Red] face="Roboto Medium">
+119732	[INLINE_ICON 2001998]
+119733	[INLINE_ICON 2001999]
+120331	NewsTicker
+120799	[INLINE_ICON 2002380] WORLD MARKET NEWS:
+119897	Upgrade available
+119898	No upgrade available
+100017	News
+100018	Regions
+100019	Assignment Center
+100021	Corporate Profile
+100022	Laboratory
+100024	Docks
+100025	Global Storage
+100020	Council Hall
+100156	NO LOCA Direct Trade
+100157	NO LOCA Add an item
+100158	NO LOCA Ready
+100159	NO LOCA Waiting for player to be ready
+100160	NO LOCA Trade
+100164	NO LOCA Select item
+100162	NO LOCA Add an item to trade
+100165	NO LOCA Select goods
+100166	NO LOCA Trade this item
+100167	NO LOCA Product type
+100168	NO LOCA Amount
+100169	NO LOCA Remaining
+100534	NO LOCA Annolyzer10
+100535	NO LOCA Schneider
+100536	NO LOCA SoyDean000
+100537	NO LOCA ClickSt@cker
+100538	NO LOCA island_hopper
+100539	NO LOCA Global Union
+100540	NO LOCA Roxxeur321
+100541	NO LOCA mel_langert_79
+100542	NO LOCA MisterMinister
+100543	NO LOCA BiLLdaR
+100544	NO LOCA 4NN0-M4NN0
+100545	NO LOCA Barbicain
+100546	NO LOCA M00nwalker
+100547	NO LOCA TwentyTwenty20
+100548	NO LOCA Arctic Custodians
+100727	Create an Offer
+100729	Quantity
+100704	Market rate
+100730	Price
+100145	Search
+100146	Buy Items
+100147	System Offer
+100148	Latest Offers
+100345	Sell Items
+100721	Latest Offers
+100724	My Offers
+100346	Online Market
+100356	Item purchased
+100357	Global Union
+100358	Arctic Custodians
+100359	Orbital Watch
+100560	x [TRADE_ITEM_AMOUNT]
+100698	Create new offer
+100699	Next Corporation Level required
+100700	My Offers
+100701	[TRADE_ITEM_PRICE]
+100702	Duration:
+100703	Collect
+100740	[TRADE_ITEM_HEADLINE]
+100761	Search Offer
+100851	Online Market
+102525	Level [TRADE_SLOT_UNLOCK] required
+102693	Buy Item
+100314	NO LOCA Population:
+100315	NO LOCA Productivity:
+100316	Goods:
+100349	<font face="Roboto Medium">NO LOCATerrorist</font> Attack
+100350	<font face="Roboto Medium">NO LOCAContinue</font> Last Session
