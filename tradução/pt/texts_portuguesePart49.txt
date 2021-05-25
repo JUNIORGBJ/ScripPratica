@@ -20,50 +20,50 @@
 7001473	[GUIDNAME 7001468]
 7001884	[GUIDNAME 7001875]
 7001885	[GUIDNAME 7001876]
-7000040	Aeronave de comando
+7000040	Command Aircraft
 7000117	[GUIDNAME 1000029]
 7000119	[GUIDNAME 1000806]
-7000379	Fazenda de arroz
-7000380	Fazenda de arroz
-7000433	Fazenda de arroz
-7000145	Avião da Dr. Esther Nylund
-7000150	Controle de temperatura da câmara
-7000151	Controle de temperatura da câmara
-7001427	Gerador da câmara
-7001428	Gerador da câmara
-7001429	Câmara de sementes
-7001430	Câmara de sementes
+7000379	Rice Farm
+7000380	Rice Farm
+7000433	Rice Farm
+7000145	Dr. Esther Nylund's Plane
+7000150	Vault Temperature Control
+7000151	Vault Temperature Control
+7001427	Vault Generator
+7001428	Vault Generator
+7001429	Seed Vault
+7001430	Seed Vault
 7000174	[GUIDNAME 1002917]
-7000172	Bloqueio de lava
-7000187	Módulo de Temperatura
-7000189	Unidade de temperatura
+7000172	Blocking Lava
+7000187	Temperature Module
+7000189	Temperature Unit
 7000190	[GUIDNAME 1002914]
-7000191	Irradiando Destroços
-7000192	Esteira de engenharia
-7000193	Controle do gerador
-7000195	Pesquisadores Aflitos
-7000196	Animais selvagens infectados
-7000197	Contêiner de sementes seguro
+7000191	Radiating Wreckage
+7000192	Engineer Transporter
+7000193	Generator Control
+7000195	Afflicted Researchers
+7000196	Infected Wildlife
+7000197	Secured Seed Container
 7000202	[GUIDNAME 1002917]
-7000186	Vazamento
-7000198	Contêiner de Vacina
-7001444	Animais selvagens infectados
-7000203	Contêiner de antídoto
+7000186	Leak
+7000198	Vaccine Container
+7001444	Infected Wildlife
+7000203	Antidote Container
 7001454	[GUIDNAME 7001407]
 7001770	[GUIDNAME 7001400]
-7000005	Ecologista Erin
-7000006	Pesquisador de Campo Yun
+7000005	Ecologist Erin
+7000006	Field Researcher Yun
 7000215	Dr. Esther Nylund
-7000165	Musgo
-7000166	Lã
-7000168	Biocatalisadores
-7000055	Robôs médicos
+7000165	Moss
+7000166	Wool
+7000168	Biocatalysts
+7000055	MediBots
 7000169	Aerogel
-7000053	Nano-chips
-7000054	Drones inteligentes
-7000167	Jaquetas multiuso
-7000164	Gás natural
-7000052	Tungstênio
+7000053	Nanochips
+7000054	Smartdrones
+7000167	All-weather Parkas
+7000164	Natural Gas
+7000052	Tungsten
 7001461	[GUIDNAME 2001399]
 7001462	[GUIDNAME 6000480]
 7001463	[GUIDNAME 6000482]
@@ -72,171 +72,171 @@
 7001481	[GUIDNAME 2001606]
 7001482	[GUIDNAME 7000168]
 7001483	[GUIDNAME 7000169]
-7000000	Região Tundra
-7000001	Ecologistas
-7000002	Pesquisadores de Campo
-7000034	Comunidade
-7000035	Confidencialidade
+7000000	Tundra Region
+7000001	Ecologists
+7000002	Field Researchers
+7000034	Community
+7000035	Secrecy
 7000010	Tundra
-7000009	Setor Tundra
-7000011	Planícies de Vanha
+7000009	Tundra Sector
+7000011	Vanha Plains
 7001457	NO LOCA Tundra Region Market
-7000124	Prossiga com as tarefas da Dra. Esther Nylund com relação à câmara de sementes.
-7000324	1. Em isolamento
-7000323	2. Reforço
-7000326	3. Pântanos
-7000325	4. A melhor colheita
-7001455	5. Segunda opinião
-7000327	6. Compartilhe o saque
-7000206	Projeto: Ponto de Fusão
-7000207	Projeto: Estabilizador Miniatura do Clima
-7000132	Projeto: Desobstruindo
-7000175	Projeto: Fusível rompido
-7000208	Projeto: Mal necessário
-7000176	Projeto: Quando quiser
-7000177	Projeto: Zona de Exclusão
-7000129	Projeto: Tecnologia é falível
-7000209	Projeto: Fora da Visão
-7000178	Projeto: Nova equipe
-7000210	Projeto: Construindo Impulso
-7000185	Projeto: Sem Tempo para Perder
-7000180	Projeto: Febre Expansiva
-7000179	Projeto: Fora de controle
-7000211	Projeto: Por um fio
-7000181	Projeto: Ajuda Externa
-7000212	Projeto: Irregularidade
-7000182	Projeto: Reação em Cadeia
-7000213	Projeto: Controle de Pragas
-7000183	Projeto: Avanço revolucionário
-7000214	Projeto: Manter a pontuação
-7000184	Projeto: Uma vez por todas
-7001489	Perdido na clareira
-7001491	Detritos ilegais
-7001492	Aproveitando a folga
-7001493	Requisitos de abastecimento
-7001494	Poder da natureza
-7001495	Obrigações morais
-7001496	Obrigações morais
-7001497	Error de principiante
-7001498	Error de principiante
-7001723	Terreno complicado
+7000124	Proceed with Dr. Esther Nylund's assignments concerning the Seed Vault.
+7000324	1. In Isolation
+7000323	2. Backup
+7000326	3. The Marshlands
+7000325	4. Cream of the Crop
+7001455	5. Second Opinion
+7000327	6. Sharing the Spoils
+7000206	Project: Melting Point
+7000207	Project: Miniature Climate Stabilizer
+7000132	Project: Unclogging
+7000175	Project: Blown Fuse
+7000208	Project: Necessary Evil
+7000176	Project: Ready When You Are
+7000177	Project: Exclusion Zone
+7000129	Project: Technology is Fallible
+7000209	Project: Out of Sight
+7000178	Project: Taking on Staff
+7000210	Project: Building Momentum
+7000185	Project: No Time to Lose
+7000180	Project: Sprawl Fever
+7000179	Project: Out of Control
+7000211	Project: By a Thread
+7000181	Project: Outside Help
+7000212	Project: Irregularity
+7000182	Project: Chain Reaction
+7000213	Project: Pest Control
+7000183	Project: Breakthrough
+7000214	Project: Keeping a Tally
+7000184	Project: Once and for All
+7001489	Lost in the White
+7001491	A Case of Fly-Tipping
+7001492	Picking Up the Slack
+7001493	Supply Requirements
+7001494	Nature's Power
+7001495	Moral Obligations
+7001496	Moral Obligations
+7001497	Beginner's Mistake
+7001498	Beginner's Mistake
+7001723	Difficult Terrain
 7001724	[GUIDNAME 7001723]
-7001502	Um mistério precário
-7001503	Claro que sim
-7001504	Salve as baleias
-7001505	Uma exceção
-7001506	Mercado negro
-7001508	Dados Valiosos
-7001509	Não está sozinho
-7001511	O tempo é ouro
-7001513	Transporte domestico
-7001515	Experimentos, experimentos
-7001516	Desconto de Empregado
-7001517	Jogando pelo Seguro
-7001518	Jogando pelo Seguro
-7001725	Compra de bens volumosos
+7001502	A Precarious Mystery
+7001503	You Bet
+7001504	Save the Whales
+7001505	An Exception
+7001506	Black Market
+7001508	Valuable Data
+7001509	Not Alone
+7001511	Time Is an Issue
+7001513	Domestic Shipping
+7001515	Experiments, Experiments
+7001516	Employee Discount
+7001517	Playing It Safe
+7001518	Playing It Safe
+7001725	Bulky Goods Shipping
 7001726	[GUIDNAME 7001725]
-7001521	Teste de estresse de temperatura
-7001522	Baliza de advertência
-7001524	Armazenamento inseguro
-7001525	Escudo de radiação
-7001528	Declarados como presentes
-7001530	Super-protetor
-7001531	Estudo prático
+7001521	Temperature Stress Test
+7001522	Warning Beacon
+7001524	Unsafe Storage
+7001525	Radiation Protection
+7001528	Declared as Gifts
+7001530	Overprotective
+7001531	Practical Survey
 7001732	DISTRIBUTE QUEST TEST
 7001941	NO LOCA Pick-Up
 7001942	NO LOCA Pick-Up
 7001943	NO LOCA Pick-Up
 7001944	NO LOCA Pick-Up
-7001963	Módulos de reforço
+7001963	Boost Modules
 7001996	[GUIDNAME 7001963]
 7000320	[GUIDNAME 6000378]
 7000321	[GUIDNAME 6000475]
 7000322	[GUIDNAME 6000476]
-7001352	qualquer mercadoria de tundra
-7001353	qualquer edifício de tundra
-7001354	qualquer módulo de produção de tundra
-7001355	qualquer módulo de manutenção da tundra
-7001574	qualquer pântano
-7001936	qualquer população de Tundra
-7001459	Lâmpada de rua
-7001460	Ponto de ônibus
-11000179	Estátua
-11000223	Sistema de alarme
-11000224	Abandonado
-11000225	Mantenha a calma
-11000226	Fim do embargo
-11000227	Táticas de Guerrilha
-11000228	Imitação perfeita
-11000229	Guarda-costas chamariz
-11000230	Monopólios em constante mudança
-11000231	Transporte de provas
-11000232	Sem imunidade
-11000162	"Droga! Eu deveria ter percebido que o preço desse feitiço era bom demais, e o alarme contra ladrões ainda está ligado! Você só precisa chegar até aqui ..."
-11000163	"Dois desertores da Guarda Orbital chegaram até aqui, mas a batalha ainda está muito perto! Se você ajudá-los, talvez mais deles voltem a si ..."
-11000164	"A Union diz que não há guerra. Eu não me importaria de viver sob aquela rocha, mas é melhor praticarmos manobras de evacuação."
-11000165	"Um de seus amigos comerciantes está fazendo acordos com a Guarda; achei que você poderia estar interessado em saber. Em troca, você pode proteger a testemunha-chave?"
-11000166	"Mal conseguimos acompanhar os reparos nos estabilizadores climáticos. E agora, a Guarda está afundando as peças sobressalentes antes de chegarem aqui!"
-11000167	"Tenho orgulho de dizer que sou a primeira pessoa a recriar uma frota da Guarda Orbital! Você faz exercícios de verdade e recebo dados de teste, o que você me diz?"
-11000168	"Minha chefe recebeu várias ameaças de morte e teme pela segurança dela! Preparei uma isca embora, afinal este seja o seu território ..."
-11000169	"Ibarra-Foxcom está tentando sabotar nossos novos protótipos cibernéticos. A mudança de Usoyev para a indústria de biotecnologia está atingindo-os com força ..."
-11000170	"Posso provar que Cassian está subornando o Conselho. Além disso, você está interessado em proteger as evidências, a menos que também tenha algo a ver com isso."
-11000171	"As negociações entre nossas colônias lunares e a Guarda Orbital estavam em perigo, mas pensar que eles iriam perseguir nosso diplomata aqui ...!"
-11000196	Escolte o [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] até [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] enquanto desvia dos inimigos.
-11000213	Aprimoramento veterano lançado
-11000214	Desafie-se no nível de dificuldade Veterano
-11000215	Desfrute de uma visão geral aprimorada de suas cidades
-11000216	Domine novos tipos de tarefas
-11000217	Você possui a atualização gratuita
-11000218	Gerencie seus custos de administração
-11000219	Experimente as configurações avançadas do jogo
-11000220	e mais...
-11000136	No lado ruim de alguém
+7001352	any Tundra good
+7001353	any Tundra building
+7001354	any Tundra production module
+7001355	any Tundra maintenance module
+7001574	any swamp
+7001936	any Tundra population
+7001459	Street Lamp
+7001460	Bus Stop
+11000179	Statue
+11000223	Alarm System
+11000224	AWOL
+11000225	Keep Calm
+11000226	Breaking the Embargo
+11000227	Guerilla Tactics
+11000228	Perfect Imitation
+11000229	Decoy Bodyguard
+11000230	Monopolies in Flux
+11000231	Evidence Transport
+11000232	No Immunity
+11000162	"Dangit! Should've known the price for this baby was too good, the anti-theft alarm's still on! It's just gotta make it here..."
+11000163	"Two Orbital Watch deserters made it here, but the battle is still way too close! If you help them maybe more will see reason?"
+11000164	"The Union says there's no war happening. Now that's a rock I'd like to live under, but we'd better practice evacuation maneuvers."
+11000165	"One of your trader friends is making deals with the Watch, thought I'd let you know. In return, can you protect the key witness?"
+11000166	"We can barely keep up with climate stabilizer repairs. And now the Watch is sinking the spare parts before they get there!"
+11000167	"I'm proud to say I'm the first to recreate an Orbital Watch fleet! You get authentic excercise and I get test data, what do you say?"
+11000168	"My superior has received numerous death threats, I fear for her safety! I've arranged for a decoy and this is your territory after all..."
+11000169	"Ibarra-Foxcom is trying to sabotage our newest cybernetics prototypes. Usoyev shifting to the biotech industry hit them hard..."
+11000170	"I can prove Cassian has been bribing the Council. It's also in your best interest to protect the evidence, unless you're also involved?"
+11000171	"Negotiations between our lunar colonies and the Orbital Watch were a risk, but to think they'd pursue our diplomat here... !"
+11000196	Escort [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] to [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT] while evading enemies
+11000213	Veteran Update released
+11000214	Challenge yourself on the Veteran difficulty
+11000215	Have a better overview of your cities
+11000216	Master new assignment types
+11000217	You own the free update
+11000218	Handle your administration costs
+11000219	Try out the advanced game settings
+11000220	and more...
+11000136	On Someone's Bad Side
 11000137	[GUIDNAME 11000136]
-11000138	Apontando o dedo
+11000138	Finger-Pointing
 11000235	[GUIDNAME 11000223]
 11000236	[GUIDNAME 11000223]
 11000237	[GUIDNAME 11000223]
-11000139	Colapso nervoso
+11000139	Nervous Breakdown
 11000140	[GUIDNAME 11000139]
-11000141	Casa furtiva Organizado
+11000141	Organized Poaching
 11000182	[GUIDNAME 11000224]
 11000184	[GUIDNAME 11000224]
 11000185	[GUIDNAME 11000224]
-11000142	Apenas de passagem
+11000142	Just Passing Through
 11000143	[GUIDNAME 11000142]
-11000144	Desarmando as armadilhas
-11000145	Contaminação da água
+11000144	Disarming the Traps
+11000145	Water Pollution
 11000190	[GUIDNAME 11000226]
 11000191	[GUIDNAME 11000226]
 11000192	[GUIDNAME 11000226]
-11000146	Efeito de demonstração
+11000146	Demo Effect
 11000147	[GUIDNAME 11000146]
-11000148	Cobaias
+11000148	Guinea Pigs
 11000197	[GUIDNAME 11000228]
 11000198	[GUIDNAME 11000228]
 11000199	[GUIDNAME 11000228]
-11000149	Quase
+11000149	Stopped Short
 11000150	[GUIDNAME 11000149]
-11000151	Vigilância hackeada
+11000151	Hacked Surveillance
 11000200	[GUIDNAME 11000229]
 11000201	[GUIDNAME 11000229]
 11000202	[GUIDNAME 11000229]
-11000152	Intermediário
+11000152	Middleman
 11000153	[GUIDNAME 11000152]
-11000154	Transporte Tóxico
+11000154	Toxic Transport
 11000241	[GUIDNAME 11000230]
 11000242	[GUIDNAME 11000230]
 11000243	[GUIDNAME 11000230]
-11000155	Coletando Dados do Usuário
+11000155	Collecting User Data
 11000156	[GUIDNAME 11000155]
-11000157	Clonagem Tecnológica
+11000157	Tech Cloning
 11000244	[GUIDNAME 11000231]
 11000245	[GUIDNAME 11000231]
 11000246	[GUIDNAME 11000231]
-11000158	Aterro de Usoyev
+11000158	Usoyev's Landfill
 11000159	[GUIDNAME 11000158]
-11000160	Afiliação Perigosa
+11000160	Dangerous Affiliation
 11000209	[GUIDNAME 11000232]
 11000210	[GUIDNAME 11000232]
 11000211	[GUIDNAME 11000232]

@@ -1,95 +1,95 @@
-117273	Gerador de grafeno aprimorado
-118180	"Vamos, vamos começar com algumas pesquisas básicas. Precisamos saber exatamente de que tipo de instalações estamos falando."
-118181	"Que descoberta! É uma arca, uma velha estação de pesquisa flutuante! Devíamos nos preparar para uma expedição subaquática para examiná-la minuciosamente."
-118182	"Ok, deve haver espaço suficiente para a equipe. Agora, precisamos de mergulhadores profissionais. Mas presumo que você seja um especialista em recrutamento."
-118183	"Ah... sim, os detalhes... eu subestimei os custos de suprimentos. Você poderia cuidar dos arranjos?"
-118184	"Mergulhadores subaquáticos... Quando eu arrancar esse erro dos cortadores a laser. Bem, poderíamos usar brocas velhas e chatas. Mas você coloca os materiais."
-118185	"Perca-se por um segundo e alguém já está atrás do seu projeto de pesquisa. Parece o estilo de Usoyev. Não seja apreensivo!"
-118187	"É melhor fecharmos a área. Esta é nossa descoberta científica! Não estou me arriscando. Existe puro canibalismo pelo lucro."
-118189	"Elaborei um plano de segurança. Conto com você para preparar as forças de segurança na área. Deve ser o suficiente para manter os visitantes indesejados afastados."
-118190	"Eu admito: não posso decodificar tudo isso sem ajuda. Nem desmontá-lo. Preciso de ajudantes."
-118191	"E agora a parte divertida! Eu preparei um design de empilhadeira muito promissor. Estou ansioso para transformá-la em uma realidade de aço."
-118209	"A coisa mais difícil é manter a unidade de I.A original. Melhor ter andróides amarrados aos servidores da arca para armazenamento de backup, apenas no caso."
-118210	"Ok, o próximo passo é fornecer eletricidade para a arca. As baterias de bordo estragaram, então espero poder me conectar à sua rede."
-118211	"Claro que podemos levar a arca à superfície. O sistema de propulsão não parece estar totalmente quebrado. Com algumas peças sobressalentes aqui e ali..."
-118212	"Não. Os velhos motores de propulsão não têm potência suficiente para manter a arca flutuando por conta própria. Vamos colocar pernas artificiais nela!"
-118213	"Não há motor de propulsão funcionando aqui. Bem, com certeza posso lidar com motores Anti-Gravidade. Vamos! Isso é quase perfeito!"
-114658	"Vamos, vamos começar com algumas pesquisas básicas. Precisamos saber exatamente de que tipo de instalações estamos falando."
-114659	"Que descoberta! É uma Arca, uma antiga estação de pesquisa flutuante! Devíamos preparar uma expedição subaquática para examiná-la minuciosamente."
-114660	"Ok, deve haver espaço suficiente para a equipe. Agora, precisamos de mergulhadores profissionais. Que bom que você recruta pessoas, hein?"
-114661	"Ah... sim, os detalhes... acho que subestimei o custo dos suprimentos para este projeto. Diga-me, você poderia enviar suprimentos para a equipe?"
-114662	"Mergulhadores na água... Quando eu solucionar esse problema da minha unidade de respiração SubAquática. Bem, se você insiste, podemos voltar para o antigo reservatório de ar."
-114663	"Uau. Fique perdido por um segundo e eles começam a desmontar o objeto de sua investigação. Parece coisa de Usoyev. Não fique apreensivo!"
-114664	"É melhor isolarmos a área. Não acho que aguente mais roubos."
-114665	"Ok, agora para a parte divertida! Elaborei um projeto de guindaste muito promissor. Estou ansioso para transformá-lo em uma realidade de aço."
-114666	"Claro que podemos trazer a Arca para a superfície. Os sistemas de propulsão e energia estão quebrados, mas com certeza podem ser consertados por alguns robôs de manutenção."
-114667	"Ok, o próximo passo é fornecer eletricidade para a Arca. As baterias de bordo são inúteis, então espero poder conectar à sua rede."
-114668	"Uau, a unidade antiga não parece ter força de elevação suficiente. Bem, tenho certeza que pode lidar com alguns motores Anti-Gravidades."
-109017	"Ei, vamos, não me mande embora... Estou apenas tentando trabalhar em um projeto pessoal. Dê-me um minuto e você verá que minha pesquisa vale a pena, ok?"
-114941	Alcance o nível corporativo 10 para continuar a recuperação da arca.
-114940	Alcance o nível corporativo 20 para continuar a recuperação da arca.
-114694	"Eu não posso falar. Estou no código de personalidade de E.V.E. O resto da arca é para você."
+117273	Graphene generator improved
+118180	"Okay, let's start off with some fundamental research. We have to know exactly what kind of facility we're dealing with."
+118181	"Woah, what a find! It's an Ark, an old floating research station! We should prepare for a diving expedition to examine it further."
+118182	"Okay, should be sufficient living space for the team. Next we'll need capable divers. But you're the expert in staff acquisition, I guess."
+118183	"Um... yeah, details... I've kinda underestimated the supply expenses. Say, could you take care of provisions?"
+118184	"Divers submerging... once I get this error out of the lazer cutters. Sure, we could fall back on dull old drills. But you supply the materials, then."
+118185	"Right, you're not looking for a sec, and someone goes after your research object. Looks like Usoyev's line of work. Don't be squeamish!"
+118187	"We better close off the area. This is our scientific discovery! I'm not taking chances it's cannibalized in the name of profit."
+118189	"Alright, I've compiled a security plan. I'm counting on you to assemble the onsite security forces. Should keep out any unbidden guests."
+118190	"I'll admit it, I can't decode this all on my own. Or disassemble it. I need assistants."
+118191	"Now the fun part! I've cooked up this pretty promising design for a hoisting crane. Can't wait to turn it into a steely reality."
+118209	"The difficult part is to preserve the original A.I. unit. Better have some androids link up with the Ark servers and act as backup storages, just in case."
+118210	"Alright, next step is to supply the Ark with electricity. The onboard accumulators went belly-up, so I hope I may tap your network instead."
+118211	"I'm sure we can bring the Ark back to the surface. The propulsion system doesn't looks all that broken. With a few new parts here and there..."
+118212	"Nope, the old propulsion engines can't rile up enough buoyant force to keep the Arc afloat by its own. Let's give it artificial legs!"
+118213	"No working propulsion engine here. But I'm sure I can tweak some Anti-Grav engines to do the job. C'mon! This is practically failsafe!"
+114658	"Okay, let's start off with some fundamental research. We have to know exactly what kind of facility we're dealing with here."
+114659	"Woah, what a find! It's an Ark, an old floating research station! We should prepare a diving expedition to examine it further."
+114660	"Okay, should be sufficient living space for the team. Next we'll need capable divers. Good you're an expert at hiring staff, huh?"
+114661	"Um... yeah, details... I seem to have kind of underestimated the cost of supplies on this project. Say, could you deliver some provisions for the team?"
+114662	"Divers in the water... once I get this error out of my SubAqua Breathing Unit. Sure, we could fall back on the plain old air tank, if you insist."
+114663	"Right. You look away for one sec and they start dismantling your research object. Looks like Usoyev's kind of thing. Don't be squeamish!"
+114664	"We'd better cordon off the area. I don't think I can handle any more unbidden guests stealing our stuff."
+114665	"Okay, now for the fun part! I've cooked up this pretty promising design for a crane hoist. Can't wait to turn it into a steely reality. "
+114666	"I'm sure we can bring the Ark back to the surface. The propulsion and energy systems are broken, but a few maintenance bots can probably fix that."
+114667	"Alright, next step is to supply the Ark with electricity. The onboard accumulators are useless, so I hope I can tap your network instead."
+114668	"Um, looks like the old propulsion doesn't provide enough lifting power. But I'm sure I could tweak some Anti-Grav engines to do the job."
+109017	"Hey, please, don't kick me out... I'm just pursuing a pet project of mine. Give me a minute and you'll see how worthwhile my research is, okay?"
+114941	Reach a Corporation Level of 10 to continue with the Ark recovery.
+114940	Reach a Corporation Level of 20 to continue with the Ark recovery.
+114694	"Can't talk. Totally submerged in E.V.E.'s personality code. The rest of the Ark is for you."
 114918	NO LOCA "Please Change..."
-120049	Levante uma Arca afundada do mar e recupere materiais raros de seu interior.
-111998	[NOTIFICATION_CHARACTER_NAME] informa que a primeira barragem já está conectada à rede elétrica.
-112964	[NOTIFICATION_CHARACTER_NAME] está bastante impressionado com a segunda barragem.
-112965	[NOTIFICATION_CHARACTER_NAME] elogia você por terminar todas as três barragens.
-119901	<font [MINIMAPDOT_COLOR 2001947]>+1000 pontos de Energia</font> neste setor
-120379	<font [MINIMAPDOT_COLOR 2001947]>+2000 pontos de Energia</font> neste setor
-120380	<font [MINIMAPDOT_COLOR 2001947]>+3000 pontos de Energia</font> neste setor
-117854	[NOTIFICATION_CHARACTER_NAME] veio sem permissão, mas pede que você ouça o que ele tem a dizer.
-117855	[NOTIFICATION_CHARACTER_NAME] informa sobre as ambições anteriores de construção de barragens de Lei Sheng.
-117856	[NOTIFICATION_CHARACTER_NAME] disse que o projeto foi baseado no trabalho da obscura empresa Global Trust.
-117857	[NOTIFICATION_CHARACTER_NAME] oferece parceria na reconstrução das barragens.
-117859	[NOTIFICATION_CHARACTER_NAME] está se esforçando para se preparar para a próxima fase, mas precisa de mais tempo.
-117860	Vendo que duas barragens estão funcionando, [NOTIFICATION_CHARACTER_NAME] se prepara para a fase final de construção.
-117861	[NOTIFICATION_CHARACTER_NAME] mostra respeito pelo que você conquistou.
-117224	Fase 1 do projeto concluído.
-117222	Primeira barragem finalizada.
-117223	Bônus de energia ativado neste setor
-117259	Fase 2 do projeto concluído.
-117260	Segunda barragem finalizada.
+120049	Lift a sunken Ark from the sea and recover rare materials from its interior.
+111998	[NOTIFICATION_CHARACTER_NAME] informs you that the first dam is now connected to your power grid.
+112964	[NOTIFICATION_CHARACTER_NAME] is quite impressed by the second dam.
+112965	[NOTIFICATION_CHARACTER_NAME] praises you for finishing all three dams.
+119901	<font [MINIMAPDOT_COLOR 2001947]>+1000 Energy</font> in this sector
+120379	<font [MINIMAPDOT_COLOR 2001947]>+2000 Energy</font> in this sector
+120380	<font [MINIMAPDOT_COLOR 2001947]>+3000 Energy</font> in this sector
+117854	[NOTIFICATION_CHARACTER_NAME] is here without permission, but ask that you hear her out.
+117855	[NOTIFICATION_CHARACTER_NAME] briefs you on Lei Sheng's earlier dam building ambitions.
+117856	[NOTIFICATION_CHARACTER_NAME] says the project based on the work of the now obscure company Global Trust.
+117857	[NOTIFICATION_CHARACTER_NAME] offers you a partnership in rebuilding the dams.
+117859	[NOTIFICATION_CHARACTER_NAME] is striving to prepare for the next phase, but needs more time.
+117860	Seeing that two dams are functional, [NOTIFICATION_CHARACTER_NAME] prepares for the final construction phase.
+117861	[NOTIFICATION_CHARACTER_NAME] shows wary respect for what you've accomplished.
+117224	Project stage 1 completed
+117222	First dam finished
+117223	Energy bonus in this sector activated
+117259	Project stage 2 completed
+117260	Second dam finished
 117261	[GUIDNAME 117223]
-117262	Fase 3 do projeto concluído.
-117263	Terceira barragem finalizada.
+117262	Project stage 3 completed
+117263	Third dam finished
 117264	[GUIDNAME 117223]
-113223	"Aqui está a pergunta: o que causou o rompimento das barragens no passado? Devemos analisar os escombros para descobrir."
-113224	"Temos uma teoria sobre a destruição da barragem. Mas precisamos de mais mão de obra para poder testar a hipótese rapidamente."
-113225	"Uau... Lei Sheng deveria ter testado os sistemas Global Trust antes de usá-los. A análise indica que as barragens desabaram devido à turbulência na água causada por formações rochosas subaquáticas. Temos que minimizar esse risco para o futuro."
-113226	"O departamento financeiro de Lei Sheng está considerando a possibilidade de cancelar a construção da barragem. Dizem que a demanda é insuficiente. Não é um caso de negócios. Bem, vamos torná-lo um então."
-113227	"Podemos começar oficialmente a construir a barragem agora. Você poderia providenciar o fornecimento dos materiais necessários?"
-113229	"Embora esta barragem pareça estar em melhores condições, os restos não são reparáveis. Devemos removê-los."
-113230	“A área de construção da barragem é de difícil acesso. Estou curioso para ver se seu sistema de logística estará à altura da tarefa”.
-113231	"Agora faltam apenas algumas toneladas de aço especial. Espero que você encontre uma maneira de obtê-lo."
-113233	"Isso é crucial! Há evidências de que agentes da Guarda Orbital colocaram explosivos subaquáticos perto de nossa presa! O tempo está passando!"
-113234	"O incidente da Guarda Orbital está deixando nossos investidores nervosos. Alguns começaram a retirar fundos. Mas fui informado de que você está muito bem preparado..."
-113235	"Parece que o departamento financeiro de Lei Sheng ainda não está convencido. Eles querem inspecionar as barragens antes de permitir que entremos online. Seja legal com eles."
-118101	"Aqui está a pergunta: o que causou o rompimento das barragens no passado? Devemos analisar os escombros para descobrir."
-118102	“Temos uma teoria sobre a destruição da barragem. Mas, para obter um resultado claro rapidamente, precisamos de mais mão de obra”.
-118103	"Lei Sheng deveria ter testado os projetos do Global Trust primeiro. A análise indica que as barragens desabaram devido à turbulência causada por formações rochosas subaquáticas. Precisamos minimizar esse risco."
-118104	"O departamento financeiro de Lei Sheng está considerando a possibilidade de cancelar a construção da barragem. Eles dizem que a demanda é insuficiente. Não é um caso de negócios. vamos torná-lo um então."
-118105	"Podemos começar oficialmente a construir a barragem agora. Você poderia providenciar o fornecimento dos materiais necessários?"
-118106	"Esta barragem pode parecer mais intacta. Mas os restos da antiga construção são irreparáveis. Devemos removê-los."
-118107	"A zona de construção da barragem é de difícil acesso. Estou curioso para saber se seu sistema de logística estará à altura da tarefa."
-118108	"Faltam algumas toneladas de superligas para completar a estrutura de suporte. Mas, de acordo com minhas fontes, você não é o tipo de pessoa que deixa essas coisas atrapalharem o progresso."
-118109	“É perigoso trabalhar em algumas partes desta barragem. Certifique-se de que o pessoal use máquinas de construção modernas. Será mais barato do que arcar com os custos das reclamações dos empregados”.
-118110	"Estamos preocupados com a segurança e por isso, vamos adiar o trabalho em alguns dos segmentos mais difíceis até que chegue o maquinário necessário. Você vai cuidar disso?"
-118111	"Isso é crucial! Há evidências de que agentes da Guarda Orbital colocaram explosivos subaquáticos perto de nossa presa! O tempo está passando!"
-118112	"Não estamos deixando nada ao acaso. Uma força de segurança é necessária para proteger as instalações o tempo todo. Nossos investidores não devem ficar sabendo disso."
-119891	"Então, uma provocação aberta? Absurdo! Nosso arsenal pode matá-los rapidamente. Mas eu quero que você dê um bom show, para mostrar nossa superioridade aos nossos investidores."
-118113	"Terminei de montar as equipes de segurança. Se você acompanhá-los pessoalmente, seu envolvimento no projeto virá à luz. É tudo uma questão de relações públicas."
-118114	"O incidente da Guarda Orbital continua preocupando nossos investidores. Alguns já começaram a retirar fundos. Mas fui informado de que vocês estão muito bem posicionados..."
-118117	"Nossas extensas medidas de segurança tranquilizaram nossos investidores. Eles vão querer estudar bem a barragem e você terá a honra de acompanhá-los. Seja legal com eles."
-118116	"Fazer uma cerimônia de abertura será a cereja do bolo. É melhor escolhermos a dedo os garçons e devemos ter nossos próprios convidados especiais para se misturarem com nossos investidores."
-118115	"A barragem será concluída bem a tempo para a cerimônia de inauguração. Que tal oferecer um banquete luxuoso para nossos investidores enquanto eles testemunham a grande revelação?"
-108585	"Sim, tecnicamente, esta é uma intrusão inesperada em seu território. Mas, antes de me denunciar, ouça minha oferta."
-113228	Alcance o nível corporativo 10 para iniciar a construção da segunda barragem.
-113232	Alcance o nível corporativo 20 para iniciar a construção da terceira barragem.
-113236	"Todas as estações funcionam perfeitamente. Não é fácil me impressionar, mas não vou te perder de vista! Parece que você não vai deixar nada impedi-lo de realizar suas visões!"
-120050	Descubra por que três das antigas represas desabaram e reconstrua-as para produzir energia.
-114782	[NOTIFICATION_CHARACTER_NAME] sua velocidade de construção o satisfaz.
-114783	A produção foi interrompida até [NOTIFICATION_CHARACTER_NAME] convencer os investidores.
-114784	[NOTIFICATION_CHARACTER_NAME] está satisfeito com o resultado e agradece a sua colaboração.
+113223	"The question is: What made the dams collapse back then? We should analyze the debris to find out."
+113224	"We have a theory about what destroyed the dam. But we will need more manpower to verify that theory quickly."
+113225	"Hmm, Lei Sheng should've tested Global Trust's designs before using them. The analysis says the dams collapsed due to water turbulence caused by subaqua rock formations. We have to minimize this risk in the future."
+113226	"Lei Sheng's finance department is considering cancelling dam construction. Not enough demand, they say. Not a business case. Well, let's make it one then. "
+113227	"We may now officially start building the dam. Could you see to the delivery of the required materials?"
+113229	"This dam may look like it is in better condition, but the remains are far beyond repair. We should get them out of the way."
+113230	"The dam building site is difficult to access. I'm curious to see if your logistics system will be up to the task."
+113231	"Now all that's missing are a few tons of special steel. Still, I'm confident you will find a way to get them."
+113233	"This is crucial! There's evidence that Orbital Watch agents placed underwater explosives near our dams! The clock is ticking!"
+113234	"The Orbital Watch incident is making our investors nervous. Some are already withdrawing their funds. But I'm informed you are well prepared..."
+113235	"It seems Lei Sheng's finance department is still not convinced. They want to inspect the dams before they allow us to bring them online. Be polite."
+118101	"The question is: What made the dams collapse back then? We should analyze the debris to find out."
+118102	"We have a theory what destroyed the dam. But to get a clear result quickly, we need more manpower."
+118103	"Lei Sheng should've tested Global Trust's designs first. The analysis says the dams collapsed due to turbulences, caused by underwater rock formations. We have to minimize this risk."
+118104	"Lei Sheng's finance department considers calling the dam building off. Not enough demand, they say. Not a business case. Well, let's make it one then."
+118105	"We may officially start the dam building. Could you see to the delivery of the required materials?"
+118106	"This dam may look more intact. But the remains of the old construction are beyond repair. We should get them out of the way."
+118107	"The dam building site is quite difficult to access. I'm curious if your logistics system will be up to the requirements."
+118108	"A few tons of superalloys are missing to finish the support structure. But according to my sources, you are no one who to allows such things to impede progress ."
+118109	"Parts of this dam are dangerous to work on. Make sure the staff uses state-of-the-art building machines. Will be cheaper than the labor court costs."
+118110	"Due to safety concerns we're postponing work on the more difficult segments until the necessary machinery arrives. You see to that?"
+118111	"This is crucial! There's evidence that Orbital Watch agents placed underwater explosives near our dams! The clock is ticking!"
+118112	"We're not leaving anything to chance. A security force is necessary to secure the premises at all times. Our investors must not hear of this."
+119891	"So, an open provokation? Absurd! Our firepower can take them out easily. But I want you to make a big show of it, to demonstrate our superiority before our investors."
+118113	"I'm finished assembling the security teams. Escorting them personally will reveal your involvement in the project. It's all about PR."
+118114	"The Orbital Watch incident still worries our investors. Some are already withdrawing their funds. But I'm informed you are well positioned..."
+118117	"Our extensive security measures assuaged our investors. They'll want a good look at the dam, so you have the honor of escorting them. Be polite."
+118116	"Hosting an opening celebration on site will top it off. Best we hand-pick the waiting staff and invite a few special guests to mingle with our investors."
+118115	"The dam will be finished just in time for the opening celebration. How about a luxurious banquet to cater to our investors while they watch the big reveal?"
+108585	"Yes, technically this is unannounced intrusion into your territory. But before you report me, listen to my offer."
+113228	Reach a Corporation Level of 10 to start the construction of the second dam.
+113232	Reach a Corporation Level of 20 to start the construction of the third dam.
+113236	"All stations are running smoothly. I'm not easily impressed, but I will certainly keep an eye on you! It seems you won't let anything stop you from turning your visions into realities!"
+120050	Identify why three old dams collapsed and rebuild them to produce energy.
+114782	[NOTIFICATION_CHARACTER_NAME] is satisfied with the building speed you are displaying.
+114783	The production is halted until [NOTIFICATION_CHARACTER_NAME] can convince the investors.
+114784	[NOTIFICATION_CHARACTER_NAME] is pleased with the outcome and thanks you for the collaboration.
 114785	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003161] Ornamental</font>
 114786	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003161] Ornamental</font>
 114787	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003161] Ornamental</font>
@@ -106,134 +106,134 @@
 118087	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003163] Ornamental</font>
 118088	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003163] Ornamental</font>
 114795	NO LOCA Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003163] Ornamental</font>
-119905	Ajustes de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003161]</font> elemento decorativo e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002009]</font> Setting
-119906	Ajustes de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003162]</font> elemento decorativo e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002012]</font> Setting
-119907	Ajustes de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003163]</font> elemento decorativo e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002013]</font> Setting
-116380	[NOTIFICATION_CHARACTER_NAME] quer que você participe de seu novo projeto.
-116381	[NOTIFICATION_CHARACTER_NAME] está convencido de que você será o parceiro perfeito para ajudar a fortalecer a União Global.
-116382	[NOTIFICATION_CHARACTER_NAME] deseja comemorar o centenário da fundação da primeira colônia lunar.
-116383	[NOTIFICATION_CHARACTER_NAME] está ansioso para cooperar com você.
-116384	[NOTIFICATION_CHARACTER_NAME] está preocupado e entrará em contato com você quando a construção estiver suficientemente avançada.
-116385	[NOTIFICATION_CHARACTER_NAME] entrará em contato com você assim que ele tiver cuidado de todos os obstáculos de planejamento.
-116386	[NOTIFICATION_CHARACTER_NAME] admira seu monumento e as muitas oportunidades que ele trouxe.
-117274	Fase 1 do projeto concluída
-117275	Preparou a fundação da estátua
-117276	[GUIDNAME 1003161] e [GUIDNAME 2002009] desbloqueado
-117277	Fase 2 do projeto concluída
-117278	Colocou o parque e as pernas da estátua
-117279	[GUIDNAME 1003162] e [GUIDNAME 2002012] desbloqueado
-117280	Fase 3 do projeto concluído
-117281	Estátua da Segunda Onda concluída.
-117282	[GUIDNAME 1003163] e [GUIDNAME 2002013] desbloqueado
-114680	"Primeiro, vamos abrir espaço para as fundações. Voar sobre essas pedras levantará um pouco de poeira, mas não acho que isso vá preocupá-lo."
-114681	"Como qualquer projeto, você precisa de um financiamento confiável. Espero que esteja à altura da ocasião. Seus concorrentes não pareciam tão determinados quanto você."
-114682	"Chegou a hora de acompanhar a mão de obra. Não foi esquecido por seus habitantes locais que este trabalho criou inúmeras oportunidades de trabalho do nada."
-114683	"Eu entendo que manter o suprimento de materiais para o local é uma sangria. Mas sua flexibilidade é o motivo pelo qual preferimos você em vez dos Big five para este trabalho."
-114684	"Terminada a produção dos materiais, falta apenas fazer a entrega. Seus concorrentes foram rápidos em dizer que o projeto é uma perda de tempo."
-114685	"Acabo de ser informado que as fundações estão concluídas. O momento é muito apertado, mas os jardins circundantes são essenciais. Você poderia fazer uma seleção da flora local para os jardineiros?"
-114686	"Para os jardins, você precisa de uma mão de obra dedicada, caso contrário o projeto vai parar. Seria irônico se precisássemos de ajuda externa para o nosso monumento, hein?"
-114687	"As passarelas de mármore vão dar o toque final. Aí podemos começar com a atração principal... Espere, o investidor está me ligando. Tenho que atender."
-114688	"É o momento perfeito: acabei de garantir apoio para nossa fase final. Sei que é muito pedir, mas tal monumento tem que ser feito de titânio."
-114689	"Eles lançaram uma campanha de difamação alegando que nosso monumento nada mais é do que uma compensação para, cito literalmente: "uma cidade que é como um chiqueiro nojento. Isso mostra que sua metrópole está tão atraente como sempre."
-114690	"Eu fiz questão de todos os representantes dos Big five comparecerem. Escolte o equipamento e silencie-os, surpreendendo-os com um show de luzes perfeitamente executado."
-118068	"Primeiro, vamos abrir espaço para as fundações. Muita poeira vai ser levantada para explodir essas pedras, mas não acho que isso assuste você."
-118069	"Como em qualquer projeto, você precisa de financiamento confiável aqui. Eu poderia ajudar, mas o Projeto de Licença Lunar já afetou nossa economia, então..."
-118070	"Chegou a hora de escoltar a mão de obra aqui. Não foi esquecido por seus habitantes locais que este trabalho criou uma tonelada de oportunidades de trabalho do nada."
-118071	"Eu entendo que manter o trabalho com materiais é um grande desafio. Mas sua flexibilidade é o motivo pelo qual preferimos você aos Big five para este trabalho."
-118072	“Agora que a produção dos materiais está finalizada, falta fazer a entrega. Mova-se rápido ou a imprensa pode censurar o projeto como uma perda de tempo”.
-118073	"As fundações estão prontas. Nosso cronograma é muito apertado, mas os jardins ao redor são essenciais. Você poderia fazer uma seleção da flora local para os jardineiros?"
-118074	"Tivemos que corrigir nossos cálculos de custo de material. Em qualquer caso, não vamos cortar o salário de nossos funcionários, vamos? O escândalo seria tremendo."
-118075	"As passarelas de mármore vão dar o toque final. Claro, eu posso cuidar... Espere, um investidor está ligando. Eu tenho que atender. Você cuida de tudo, certo?"
-118076	"Os jardins ainda precisam de uma boa quantidade de trabalho. E você pode não ser capaz de contar com mão de obra externa para o seu próprio monumento. Seria bastante irônico, não seria?"
-118077	“A construção está progredindo com rapidez e eficiência. Para acompanhar, você vai ter que trazer mais profissionais. Eles vêm até nós! Afinal, você fornece mão de obra e uma remuneração confiável.”
-118078	"O momento certo: acabei de receber um telefonema de nossos acionistas sobre a fase final. Eles querem que instalemos uma nova exposição holística. Não devemos subestimar a capacidade de processamento necessária."
-118079	"Sei que é pedir muito, mas um monumento como este só pode ser feito de titânio. Afinal, estamos construindo isso para a posteridade."
-118080	"Projetamos o monumento para ser o mais eficiente possível do ponto de vista energético. Mas as últimas fases da construção vão sobrecarregar seu sistema de energia."
-118081	“Ainda existe um porto ao pé do monumento. Do contrário, como os visitantes vão chegar lá? Para isso, vamos usar materiais comprovados”.
-118082	“Eles começaram uma campanha de difamação. Dizem que nosso monumento nada mais é do que uma compensação para, repito literalmente:“ uma cidade que é como um chiqueiro imundo. Vamos mostrar que sua metrópole está tão atraente como sempre."
-118083	“A inauguração tem que ser um ato inesquecível. Eu encomendei fogos de artifício, basta posicioná-los para maximizar o efeito. Depois, relaxe e divirta-se”.
-109042	"Bom dia. Foi iniciado um projeto que pavimentará o caminho para as gerações futuras. Você vai aproveitar a oportunidade?"
-115235	Alcance o nível corporativo 10 para continuar o processo de construção.
-115236	Alcance o nível corporativo 20 para dar continuidade ao processo de construção.
-114919	"O monumento se tornou um marco por si só. A popularidade do Programa de Licença Lunar explodiu desde sua conclusão!"
-120051	Erga uma estátua em homenagem à sua corporação.
-114796	[NOTIFICATION_CHARACTER_NAME] informa que o Estabilizador de Clima foi sabotado deliberadamente.
-114797	[NOTIFICATION_CHARACTER_NAME] está feliz por você ter o Regulador da troposfera de volta para que os reparos possam prosseguir.
-114798	[NOTIFICATION_CHARACTER_NAME] está muito feliz porque o Estabilizador de Clima foi reparado.
-114799	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081]</font>
-114800	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081]</font>
-114801	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081]</font>
-114802	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081]</font>
-114803	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081]</font>
-114804	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082]</font>
-114805	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082]</font>
-118233	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082]</font>
-118234	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082]</font>
-114806	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082]</font>
-114807	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083]</font> e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084]</font>
-114808	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083]</font> e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084]</font>
-118235	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083]</font> e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084]</font>
-118236	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083]</font> e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084]</font>
-114809	Desbloqueia a configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083]</font> e <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084]</font>
-119908	Configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081]</font>
-119909	Configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082]</font>
-119910	Configuração de <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083]</font>
-114902	[THIRDPARTY_NAME] diz a você que ele e Ville Jorgensen não são exatamente amigos.
-114904	[NOTIFICATION_CHARACTER_NAME] anuncia a remoção do Regulador da troposfera.
-114905	[NOTIFICATION_CHARACTER_NAME] repreende você por se intrometer nos reparos do Estabilizador de Clima, mas aceita seu envolvimento como uma necessidade.
-114906	[NOTIFICATION_CHARACTER_NAME] recomenda que você fique em alerta.
-114907	[NOTIFICATION_CHARACTER_NAME] oferece para satisfazer sua solicitação de mudanças climáticas específicas em seus setores.
-114908	[NOTIFICATION_CHARACTER_NAME] ignora os princípios da custódia do Ártico, espalhando informações internas.
-114909	[NOTIFICATION_CHARACTER_NAME] informa que o estabilizador climático local não está funcionando corretamente.
-114910	[NOTIFICATION_CHARACTER_NAME] espera que você o ajude com os reparos.
-114911	[NOTIFICATION_CHARACTER_NAME] não pode mais ficar com os braços cruzados sem fazer nada.
-117283	Fase 1 do projeto concluída
-117284	Defeito descoberto no estabilizador climático
-117285	[GUIDNAME 2002081] desbloqueado
-117286	Fase 2 do projeto concluída
-117287	Regulador da troposfera recuperado
-117288	[GUIDNAME 2002082] desbloqueado
-117289	Fase 3 do projeto concluído
-117290	Estabilizador climático reparado
-117291	[GUIDNAME 2002083] e [GUIDNAME 2002084] desbloqueado
-114716	"Vamos ver, que coisa maluca... Devíamos coletar dados sobre algumas anomalias meteorológicas estranhas que estão acontecendo por aqui. Talvez assim possamos saber o que acontece com o estabilizador."
-114717	"Oh, eu não te disse? Os outros Guardiões não querem que eu use o laboratório deles. É uma chatice, mas teremos que criar nossa própria equipe de pesquisa para análise de dados."
-114718	"Que estranho... Nossos pesquisadores não conseguem entender as anomalias. Que bom que alguns dos meus amigos são especialistas em clima. Eu os convidei para vir!"
-114719	"Os especialistas querem coletar dados sobre o estabilizador. Nosso trabalho é manter os distúrbios eletromagnéticos ao mínimo. Talvez seja necessário desligar as luzes."
-114720	"Os especialistas dizem que é o regulador da troposfera no centro do estabilizador. Uau, sempre me disseram que a tecnologia de biopolímero era muito difícil."
-114721	"Sim, é minha culpa... O regulador da troposfera não estava quebrado, exatamente... Foi sabotagem. E ainda por cima, um robô de construção fraudado o roubou! Espero que possamos rastreá-lo."
-114722	"Esse robô pode ser controlado para se autodestruir depois de entregar a parte roubada em um determinado local. Vamos precisar de um poder de computação brutal para reconstruir seu banco de dados."
-114723	"Nós reconstruímos a memória do nosso robô. Parece um trabalho da Guarda Orbital. Pelo menos temos a posição do regulador da troposfera. Pegue-o antes que eles façam."
-114724	"Se eles me enganarem duas vezes, a culpa é minha! A Guarda Orbital deve pensar que eles podem voar com seus drones espiões sem que percebamos. Vamos colocar nossos pés no chão."
-114725	"Estive pensando. Enquanto estivermos trabalhando na área, seremos alvos fáceis para a sabotagem da Guarda Orbital. Por que não movemos os reparos para outros locais secretos?"
-114726	"Ótimo! O regulador da troposfera agora está completamente reparado. Agora só temos que instalá-lo. Vamos!"
-118237	"Vamos ver, que coisa maluca... Devíamos coletar dados sobre algumas anomalias meteorológicas estranhas que estão acontecendo por aqui. Talvez assim possamos saber o que acontece com o estabilizador."
-118238	"Oh, eu não disse a você? Os outros Guardiões não querem que eu use seus laboratórios. Teremos que criar nossa própria equipe de pesquisa para analisar os dados."
-118239	"Uau... Nossos investigadores não podem identificar as anomalias. Que bom que alguns dos meus amigos são especialistas em clima. Eu pedi a eles que viessem!"
-118240	"Os especialistas medem o estabilizador. Eles dizem que temos que manter as flutuações eletromagnéticas ao mínimo. Em qualquer caso, certifique-se de manter o nível de alimentação."
-118241	"Os especialistas dizem que o regulador da troposfera no centro do estabilizador está quebrado. Uau, sempre me disseram que a tecnologia de biopolímero era muito difícil."
-118242	"Sim, é minha culpa... O regulador da troposfera não estava quebrado, exatamente. Foi sabotagem. E ainda por cima, um robô de construção fraudado o roubou!"
-118243	"Aquele robô foi programado para se autodestruir após entregar a peça roubada. Vamos precisar de muito poder de computação para reconstruir seu banco de dados."
-118244	"A memória de nossos robôs foi reconstruída. Parece obra da Guarda Orbital. Mas temos a posição do regulador da troposfera. Pegue-o antes que eles o façam."
-118245	"O regulador está pronto e a equipe está trabalhando muito com ele. Seria bom para mim ter o equipamento certo. Nós, Curadores, não temos a tecnologia mais recente."
-118246	"Oh, não, isso é pior do que pensávamos! O sistema de resfriamento do regulador foi transformado em uma espécie de queijo suíço. Vamos precisar de materiais para consertá-lo."
-118247	"Se você me enganar duas vezes, a culpa é minha! A Guarda Orbital deve pensar que pode enviar drones espiões sem que percebamos. Vamos levá-los para a Terra."
-118248	"Eu estive pensando... Enquanto estivermos trabalhando na área, estamos na mira de sabotagem pela Guarda Orbital. Por que não movemos os reparos para locais secretos mais remotos?"
-118249	"Está muito frio aqui, mas a equipe enfrenta problemas constantes de superaquecimento... Não me pergunte, ciência não é minha praia! Bem, eles precisam de refrigerantes."
-118250	"Hala, os reparos estão praticamente consumindo nossas linhas de alimentação. Disseram que está quase pronto e só precisamos de mais algumas faíscas para os estágios finais!"
-118251	"Ótimo! A unidade de controle da troposfera agora está completamente reconstruída. Agora só temos que instalá-la."
-109043	"O acesso a esta área é restrito aos Protetores. Talvez não... Ah, foda-se essas regras estúpidas! Temos problemas. Você tem um minuto?"
-114920	"Está muito frio aqui, hein? É assim que você sabe que nosso estabilizador está funcionando direito."
-114953	"Tempo muito bom, hein? O que dizem? O melhor dos melhores, tire a água e traga o sol. Ou algo assim..."
-114954	"Desculpe, mas se estiver chovendo muito, ficarei aqui."
-114955	"Oh, impossível... eu odeio trovões."
-114956	"Óculos naturais como este são o que faz as pessoas ficarem aqui. Ver a vida no seu melhor."
-115239	Alcance o nível corporativo 12 para continuar o processo de reparo.
-115240	Alcance o nível corporativo 24 para continuar o processo de reparo.
-120052	Repara e protege um estabilizador climático danificado.
-114810	Em troca de sua parte do petróleo, [NOTIFICATION_CHARACTER_NAME] exige que você mantenha um perfil baixo por um tempo.
-114811	[NOTIFICATION_CHARACTER_NAME] está satisfeito, mas sugere que você se separe por enquanto.
-114812	[NOTIFICATION_CHARACTER_NAME] ele tem grandes planos para o petróleo bruto que você tem.
+119905	<font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003161]</font> Ornament & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002009]</font> Setting
+119906	<font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003162]</font> Ornament & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002012]</font> Setting
+119907	<font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 1003163]</font> Ornament & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002013]</font> Setting
+116380	[NOTIFICATION_CHARACTER_NAME] wants you to participate in his new project.
+116381	[NOTIFICATION_CHARACTER_NAME] is convinced you will be the perfect partner to help strengthen the Global Union.
+116382	[NOTIFICATION_CHARACTER_NAME] wishes to celebrate the centennial of the founding of the first lunar colony.
+116383	[NOTIFICATION_CHARACTER_NAME] is looking forward to the cooperation with you.
+116384	[NOTIFICATION_CHARACTER_NAME] is preoccupied and will contact you when the construction has advanced far enough.
+116385	[NOTIFICATION_CHARACTER_NAME] will contact you as soon he has taken care of all planning obstacles.
+116386	[NOTIFICATION_CHARACTER_NAME] admires your monument and the many opportunities it has brought.
+117274	Project stage 1 completed
+117275	Statue foundation laid out
+117276	[GUIDNAME 1003161] & [GUIDNAME 2002009] unlocked
+117277	Project stage 2 completed
+117278	Park and statue legs laid out
+117279	[GUIDNAME 1003162] & [GUIDNAME 2002012] unlocked
+117280	Project stage 3 completed
+117281	Second Wave Statue completed
+117282	[GUIDNAME 1003163] & [GUIDNAME 2002013] unlocked
+114680	"First, let's make some room for the foundation. Blasting those boulders will involve some airborne dirt, but I can't imagine you being afraid of that."
+114681	"As any project, this requires reliable funding. I do hope you're up to the task. Your competitors didn't prove quite as determined as you seem to be."
+114682	"Time to escort the work force. It didn't escape your populace that this project created countless job opportunities out of nothing."
+114683	"I understand that keeping the construction site supplied with materials is quite a drain. You know, your flexibility is the reason we chose you over the Big Five for this endeavor."
+114684	"Now that the materials production has wrapped up, all that's left to do is make the delivery. Don't take too long or your competitors might claim the project is a waste of time."
+114685	"I was just informed of the foundation's completion. The schedule is tight, but surrounding gardens are essential. Can you choose an assortment from the local flora for the gardeners?"
+114686	"The gardens require a dedicated workforce or the project will grind to a halt. It would be pretty ironic if we were to need outside help for our monument, wouldn't it?"
+114687	"Marble walkways will provide the finishing touch. Afterwards we can start on the main attraction... Hang on, I'm getting a call from an investor, I have to take this."
+114688	"Perfect timing, I just secured backing for our final phase. It's asking a lot, but a monument like this can't be made of anything less than titanium."
+114689	"There's a smear campain in motion claiming our monument is just compensating for a, and I quote, "dingy rathole of a city". Prove your metropolis is attractive as ever."
+114690	"I've ensured that all of the Big Five representatives are in attendance. Escort the equipment and stun them into silence with a perfectly executed lightshow."
+118068	"First, let's make space for the foundation. Blasting those boulders will blow up some dirt, but I can't imagine you'd be afraid of that."
+118069	"Like any project this here requires reliable funding. I could pitch in. But the Lunar Licensing project has cut into our finances already, so..."
+118070	"Time to escort the workforce here. It didn't escape your populace that this project created a myriad of job opportunities out of nothing."
+118071	"I understand that sustaining the construction site with materials is challenging. Then again, your flexibility is the reason we chose you over the Big Five for this endeavor."
+118072	"Now that the material production is wrapped up, all that's left to do is delivering. Proceed quickly or the press might decry the project as a time sink."
+118073	"So, the foundation is complete. Well, our time plan is tight, but surrounding it with gardens is still essential. Can you choose an assortment of the local flora for the gardeners?"
+118074	"Our material cost calculation had to be corrected. Regardless, we won't cut our workers' salary, will we? That would cause quite the scandal."
+118075	"Marble walkways will be cherry on the cake. Of course I can take care of the... Ah, hang on, a call from an investor, have to take it. You see to everything, right?"
+118076	"The gardens still require a good amount of work. And you're likely not relying on external workforce for your own monument. Would be quite ironic, wouldn't it?"
+118077	"The construction is in full swing. To keep up you'll have to bring in more professionals. They flock to us! After all you provide work and reliable pay."
+118078	"Perfect timing, I just had a call with our stakeholders about the final phase. They want us to install a new holographic display. The processing power needed is nothing to sneeze at."
+118079	"It's asking a lot, but a monument like this one can't be made of anything less than titanium. We're building this for the ages, after all."
+118080	"We designed the monument to be as energy-efficient as possible. The last stages of the construction will put a strain on your power lines, however."
+118081	"A harbor at the foot of the monument is still missing. How else would guests reach it? We'll be relying on tried-and-true materials for this."
+118082	"There's a smear campain in motion. They say, our monument is just compensation for a, and I quote, 'dingy rathole of a city'. Let's prove your metropolis is attractive as ever."
+118083	"The unveiling needs to be unforgettable. I ordered fireworks, they just need to be positioned for maximum effect. Then, you can lean back and enjoy."
+109042	"Good day to you. Work has started on a project that will lead the way for generations to come. Will you rise to the occasion?"
+115235	Reach Corporation Level of 10 to continue the construction process.
+115236	Reach Corporation Level of 20 to continue the construction process.
+114919	"The monument has definitely become a landmark in its own right. The Lunar Licensing Program's popularity has veritably skyrocketed since its completion!"
+120051	Erect a statue to celebrate your corporation.
+114796	[NOTIFICATION_CHARACTER_NAME] informs you that the Climate Stabilizer was deliberately sabotaged.
+114797	[NOTIFICATION_CHARACTER_NAME] is glad you have the Troposphere Regulator back so that repairs can proceed.
+114798	[NOTIFICATION_CHARACTER_NAME] is overjoyed that the Climate Stabilizer has been repaired.
+114799	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081] setting</font>
+114800	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081] setting</font>
+114801	Unlocks <font [MINIMAPDOT_COLOR setting</font>
+114802	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081] setting</font>
+114803	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081] setting</font>
+114804	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082] setting</font>
+114805	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082] setting</font>
+118233	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082] setting</font>
+118234	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082] setting</font>
+114806	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082] setting</font>
+114807	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083] setting</font> & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084] setting</font>
+114808	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083] setting</font> & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084] setting</font>
+118235	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083] setting</font> & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084] setting</font>
+118236	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083] setting</font> & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084] setting</font>
+114809	Unlocks <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083] setting</font> & <font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002084] setting</font>
+119908	<font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002081]</font> setting
+119909	<font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002082]</font> setting
+119910	<font [MINIMAPDOT_COLOR 2001947]>[GUIDNAME 2002083]</font> setting
+114902	[THIRDPARTY_NAME] tells you, he isn't exactly good friends with Ville Jorgensen.
+114904	[NOTIFICATION_CHARACTER_NAME] announces the removal of the Troposphere Regulator.
+114905	[NOTIFICATION_CHARACTER_NAME] scolds you for meddling with the Climate Stabilizer repairs, but accepts your involvement as a necessity.
+114906	[NOTIFICATION_CHARACTER_NAME] coerces you to be observant.
+114907	[NOTIFICATION_CHARACTER_NAME] offers you to fulfill your requests for specific climatic changes in your sectors.
+114908	[NOTIFICATION_CHARACTER_NAME] ignores Arctic Custodian principles, spilling internal information.
+114909	[NOTIFICATION_CHARACTER_NAME] informs you the local Climate Stabilizer is malfunctioning.
+114910	[NOTIFICATION_CHARACTER_NAME] hopes you will help him with the repairs.
+114911	[NOTIFICATION_CHARACTER_NAME] can no longer sit still and do nothing.
+117283	Project stage 1 completed
+117284	Climate Stabilizer defect discovered
+117285	[GUIDNAME 2002081] unlocked
+117286	Project stage 2 completed
+117287	Troposphere regulator retrieved
+117288	[GUIDNAME 2002082] unlocked
+117289	Project stage 3 completed
+117290	Climate Stabilizer repaired
+117291	[GUIDNAME 2002083] and [GUIDNAME 2002084] unlocked
+114716	"Okay, the crazy stuff... We should gather some data on some of the strange climate anomalies here. Might tell us just what's wrong with the Stabilizer."
+114717	"Oh, didn't I say? The other Custodians don't want me to use their labs. It's a bummer, but we'll have to build up our own research team for data analysis."
+114718	"So weird. Our researchers can't make head or tail of the anomalies. Good thing some of my buds are climatology experts. I called them in!"
+114719	"The experts want to gather some data out at the Stabilizer. Our job is to keep electromagnetical disturbances to a minimum. You might have to switch the lights off."
+114720	"Alright, the experts say it's the Troposphere Regulator in the Stabilizer core. Hmm, I've always been told biopolymer tech like that was oh so durable."
+114721	"Yeah, I screwed up... The Troposphere Regulator wasn't exactly broken. More like sabotaged. And on top of that, some tampered construction bot stole it! Hope we can track it somehow."
+114722	"That robot has been commanded to destroy itself once it drops the stolen part somewhere. We're gonna need a whole lot of computing power to reconstruct its database, man."
+114723	"We've reconstructed our jacker-bots memory. Looks like Orbital Watch work. At least we have the position of the Troposphere Regulator. Grab it before they do."
+114724	"Fool me twice, shame on me! The Orbital Watch must think they can just fly their spy drones over without us noticing. Let's bring them back down to Earth."
+114725	"Been thinking. As long we work on-site, we're sitting ducks for Orbital Watch's sabotage. Why not move the repair work to some secret, off-site locations?"
+114726	"Nice one, man! The Troposphere Regulator has been completely repaired. All we gotta do now is install it. Let's go!"
+118237	"Okay, the crazy stuff... We should gather some data on the strange climate anomalies here. Might tell us just what's wrong with the Stabilizer."
+118238	"Oh, didn't I say? Well, the other Custodians don't want me to use their labs. We'll have to build up our own research team to analyse the data."
+118239	"Hmmm, our researchers can't make head or tail of the anomalies. Good some of my pals are climatology experts. I called them in!"
+118240	"The experts perform measurements at the Stabilizer. Said we, need to keep electromagnetical fluctations down or something. Whatever, keep the energy supply up."
+118241	"Alright, the experts say the Troposphere Regulator in the Stabilizer core is broken. Hmm, I've always been told biopolymer tech was oh so long-lasting."
+118242	"Yeah, I screwed up... The Troposphere Regulator wasn't exactly broken. More like sabotaged. And on top of that, some hacked construction bot stole it!"
+118243	"That robot was programmed to destroy itself, after dropping the theft somewhere. Will take us a lot of computing power to reconstruct its database."
+118244	"Reconstructed the jacker-bots memory. Looks like Orbital Watch's work. But we have the position of the Troposphere Regulator. Seize it before they do."
+118245	"Regulator's cut and dry and the crew's working hard on it. Could really do with some proper equipment. We Custodians don't really have the snazziest tech."
+118246	"Oh no, this is even worse than we thought! The regulator's cooling system has been turned into swiss cheese, basically. We'll need materials to fix it."
+118247	"Fool me twice, shame on me! The Orbital Watch must be thinking they can just send spying drones without us noticing. Let's get them down to Earth."
+118248	"I've been thinking. As long we work on-site, we're on show for Orbital Watch's sabotage. Why not move the repair work to secret, off-site locations?"
+118249	"It's freezing out here, but the team's having one overheating incident after another... Don't ask me, I'm no scientist! Anyway, they need coolants."
+118250	"Wow, the repairs are practically burning through our power lines. I'm told it's almost done and we just need a few more sparks to get through the final steps!"
+118251	"Nice going! The Troposphere Controlling Unit was completely rebuilt. All we gotta do is install it."
+109043	"Yo, this area's Custodians only. I may not... ah, stuff those stupid rules! We're in big trouble here. Got a minute?"
+114920	"Pretty cold out here now, huh? That's how you know our Stabilizer is running smoothly."
+114953	"Nice weather, huh? What's that old saying? Make profit while the sun shines. Something like that, anyway."
+114954	"Sorry, man, but as long as it's pouring cats and dogs out there, I'm staying in here."
+114955	"Uh uh, no way, man... I hate thunder."
+114956	"It's natural spectacles like those that make people stay here. Seein' life in a beautiful light, so to say."
+115239	Reach a Corporation Level of 12 to continue the repair process.
+115240	Reach a Corporation Level of 24 to continue the repair process.
+120052	Repair and protect a malfunctioning climate stabilizer.
+114810	In exchange for your share of the oil, [NOTIFICATION_CHARACTER_NAME] demands that you keep a low profile for a while.
+114811	[NOTIFICATION_CHARACTER_NAME] is pleased, but suggests you two part ways for now.
+114812	[NOTIFICATION_CHARACTER_NAME] has great plans for the oil the two of you have gathered.
 114813	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Petrochemicals</font> Generator
 114814	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Petrochemicals</font> Generator
 114815	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Petrochemicals</font> Generator
@@ -249,68 +249,68 @@
 118216	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Petrochemicals</font> Generator
 118217	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Petrochemicals</font> Generator
 114823	NO LOCA <font [MINIMAPDOT_COLOR 2001947]>Petrochemicals</font> Generator
-119913	Gerador <font [MINIMAPDOT_COLOR 2001947]>Petroquímico</font>
-114943	[NOTIFICATION_CHARACTER_NAME] explica que as empresas privadas tentaram se apossar das reservas de petróleo do Ártico.
-114944	[NOTIFICATION_CHARACTER_NAME] sabe que os Guardiões do Ártico não são gentis com os poluidores e acabam com a produção de petróleo.
-114945	A matriz da [NOTIFICATION_CHARACTER_NAME] ofereceu aos Guardiões do Ártico para assumir os poços abandonados.
-114946	[NOTIFICATION_CHARACTER_NAME] está convencido do seu trabalho e pede que você inicie a desconstrução da plataforma de petróleo.
-114947	A [NOTIFICATION_CHARACTER_NAME] está preocupado com o estado do poço norte e por isso permite que você tenha acesso a ele.
-114948	[NOTIFICATION_CHARACTER_NAME] agradece sua contribuição para a proteção ambiental da área.
-120345	[NOTIFICATION_CHARACTER_NAME] teme que as válvulas de segurança não suportem a pressão.
-117292	Fase 1 do projeto concluída
-117293	O primeiro poço de petróleo já é inofensivo
-117294	Gerador petroquímico ativado
-117295	Fase 2 do projeto concluída
-117296	O segundo poço de petróleo já é inofensivo
-117297	Gerador de petroquímicos aprimorado
-117298	Estágio 3 do projeto concluído
-117299	O terceiro poço de petróleo já é inofensivo
-117300	Gerador de petroquímicos aprimorado
-114727	"As tubulações desse poço estão em péssimo estado. Não podemos deixar o óleo chegar ao mar, temos que selar as fissuras."
-114728	"Chegou a hora de desmontar o poço. Por favor, mantenha o tamanho de sua equipe dentro dos limites estabelecidos pelos Guardiões do Ártico. Quero evitar mal-entendidos."
-114729	"Sempre certifique-se de obedecer às autoridades locais. Podemos começar a demolição agora. Traga nossos técnicos."
-114730	"Vou ficar na área para verificar tudo. Você pode ter certeza de que há um fluxo constante de materiais? Precisamos muito para... mover as peças antigas."
-114731	"Precisamos agir imediatamente. Um de nossos transportadores encalhou e perdeu sua carga. Conserte a bagunça, mas silenciosamente. Não queremos preocupar as pessoas, queremos?"
-114732	"Todos esses poços abandonados... Eles representam uma terrível ameaça ambiental nos dias de hoje, com o terrorismo da Guarda Orbital e tudo mais. Devíamos... verificar seu nível de instabilidade. Só para garantir."
-114733	"Viu? Agora, imagine o que aconteceria se a Guarda Orbital atacasse este poço. É melhor prepararmos os materiais necessários para possíveis reparos. Os Guardiões do Ártico vão agradecer."
-114734	"Você ouviu o Dr. Young! Vamos revisar a estrutura antes... surgirem mais problemas imprevistos. A segurança desta região é muito importante para mim."
-114735	"O ouro negro flui. Lentamente. Só podemos extrair pequenas quantidades de cada vez. Mas se ocorrer um incidente que nos obrigue a bombear mais rápido... Como uma válvula de segurança estourada..."
-114736	"Sim, o teste de vazamento de óleo é hoje! Devo ter passado. Mas você ouviu o homem! Força total! Espero que as válvulas de segurança possam suportar a pressão..."
-114737	"Que bom que os Guardiões do Ártico têm especialistas como nós. Vamos, vamos consertar esse... problema."
-118218	"As tubulações desse poço estão em péssimo estado. Não podemos deixar o óleo chegar ao mar, temos que selar as fissuras."
-118219	"Agora, o poço deve ser desmontado. Por favor, mantenha o tamanho de sua equipe dentro dos limites estabelecidos pelos Guardiões do Ártico. Quero evitar qualquer mal-entendido."
-118220	"Sempre certifique-se de obedecer às autoridades locais. Podemos começar a demolição agora. Traga nossos técnicos."
-118221	"Vou ficar na área para verificar tudo. Você pode ter certeza de que há um fluxo constante de materiais? Precisamos muito para... mover as peças antigas corretamente."
-118222	"Uma ação deve ser tomada imediatamente! Um de nossos transportadores encalhou e perdeu sua carga. Conserte a bagunça, mas silenciosamente. Não queremos preocupar as pessoas."
-118223	"Todos esses poços abandonados... Com todo o terrorismo lunar lá fora hoje, eles representam um grande risco para a segurança da área. Devemos verificar sua estabilidade. Só para garantir."
-118224	"Entendeu? Agora imagine que foi a Guarda Orbital. É melhor conseguirmos os suprimentos necessários para possíveis reparos. Os Guardiões do Ártico vão agradecer."
-118225	"Você ouviu, Dr. Young! Vamos verificar a estrutura antes que algo aconteça. Vamos precisar de combustível suficiente para nossos soldadores. A segurança desta região é muito valiosa para mim."
-118226	"Não podemos deixar todo o trabalho duro nas mãos dos Guardiões do Ártico; agora, essa é nossa responsabilidade. Vamos precisar de nossa própria equipe."
-118227	"E agora, para reparos no local! Nossa equipe de especialistas é confiável. Portanto, não se preocupe com a supervisão. Eu também estou aqui!"
-118228	"O ouro negro flui. Lentamente. Só podemos extrair pequenas quantidades de cada vez. Mas se algo acontecesse que nos obrigasse a bombear mais rápido... Por exemplo, se as válvulas de segurança quebrassem..."
-118229	"O teste de vazamento de óleo é hoje! Devo ter passado. Mas você ouviu! Potência total! Espero que as válvulas de segurança possam suportar a pressão..."
-118230	"Bem, graças a Deus os Guardiões do Ártico têm especialistas como nós. Vamos, vamos consertar esse... problema."
-118231	"Os Protetores não conseguem acompanhar os poços! Mas, com seu assentamento por perto, podemos manter uma equipe para monitorar o poço. Em todos os momentos."
-118232	"Boas notícias! Somos oficialmente responsáveis ​​por esvaziar este fosso para evitar mais problemas. A equipe também está aqui. Vamos iniciar o monitoramento de longo prazo."
-109044	"Eu esperava vê-lo aqui. Sei que você é diferente dos outros CEOs. Você não se esquiva de decisões incômodas quando se trata de meio ambiente. É por isso que quero lhe oferecer esta oportunidade."
-115250	Alcance o nível corporativo 12 para continuar o processo de perfuração.
-115251	Alcance o nível corporativo 24 para continuar o processo de perfuração.
-114921	"Como disse um compatriota meu: Você precisa de petróleo bruto. Existe petróleo bruto. É muito fácil."
-120053	Explorar os depósitos de petróleo do Ártico assumindo o controle de três antigas plataformas de petróleo.
-114824	[NOTIFICATION_CHARACTER_NAME] parabeniza você pela primeira canalização e vai se preparar para a segunda.
-114825	[NOTIFICATION_CHARACTER_NAME] já está considerando expandir o projeto no futuro.
-114826	[NOTIFICATION_CHARACTER_NAME] agradece os resultados e obrigado por sua colaboração.
-114831	<font [MINIMAPDOT_COLOR 2001947]>+100 pontos de logística</font> neste setor
-114834	<font [MINIMAPDOT_COLOR 2001947]>+100 pontos de logística</font> neste setor
-114837	<font [MINIMAPDOT_COLOR 2001947]>+100 pontos de logística</font> neste setor
-119922	<font [MINIMAPDOT_COLOR 2001947]>+50 pontos de logística</font> neste setor
-120381	<font [MINIMAPDOT_COLOR 2001947]>+100 pontos de logística</font> neste setor
-120382	<font [MINIMAPDOT_COLOR 2001947]>+200 pontos de logística</font> neste setor
-115474	[NOTIFICATION_CHARACTER_NAME] revela um novo projeto de negócios: uma rota de comércio ártica.
-115473	[NOTIFICATION_CHARACTER_NAME] quer que você acalme os Guardiões do Ártico em troca de compartilhamento.
-115475	[NOTIFICATION_CHARACTER_NAME] garante que o projeto está em conformidade com os padrões éticos.
-116394	[NOTIFICATION_CHARACTER_NAME] deseja sua cooperação para garantir o abastecimento de alimentos.
-116395	[NOTIFICATION_CHARACTER_NAME] está planejando o segundo canal.
-116396	[NOTIFICATION_CHARACTER_NAME] irá informá-lo quando chegar a hora.
-116397	[NOTIFICATION_CHARACTER_NAME] está profundamente grato por sua ajuda.
-116402	[NOTIFICATION_CHARACTER_NAME] se oferece para ser seu parceiro.
+119913	<font [MINIMAPDOT_COLOR 2001947]>Petrochemicals</font> generator
+114943	[NOTIFICATION_CHARACTER_NAME] explains, that private corporations tried to get hold of the Arctic's oil reserves.
+114944	[NOTIFICATION_CHARACTER_NAME] knows the Arctic Custodians aren't gentle to polluters and put a stop to oil production.
+114945	[NOTIFICATION_CHARACTER_NAME]'s mother company offered the Arctic Custodians to take care of the abandoned oil rigs.
+114946	[NOTIFICATION_CHARACTER_NAME] is convinced of your work and asks you to start the deconstruction of the oil rig.
+114947	Worried about its condition, [NOTIFICATION_CHARACTER_NAME] grants you access to the northern oil rig.
+114948	[NOTIFICATION_CHARACTER_NAME] is grateful for your contribution to the environmental protection of the area. Well...
+120345	[NOTIFICATION_CHARACTER_NAME] fears the security valves will not withstand the pressure.
+117292	Project stage 1 completed
+117293	First oil rig rendered harmless
+117294	Petrochemicals generator activated
+117295	Project stage 2 completed
+117296	Second oil rig rendered harmless
+117297	Petrochemicals generator improved
+117298	Project stage 3 completed
+117299	Third oil rig rendered harmless
+117300	Petrochemicals generator improved
+114727	"The pipelines of this rig are ailling. We cannot allow the oil to simply flow into the ocean, so we should seal the leakages."
+114728	"Now, time to dismantle the oil rig. Keep your team size within the limits specified by the Arctic Custodians, please. I want to prevent any misunderstandings."
+114729	"Always ensure your local authorities' compliance. Now we may begin with the demolition. Ship in our technicians."
+114730	"I'm staying on-site to keep an eye on everything. Could you ensure a steady flow of materials? There's so much we need to properly... stow away the old parts."
+114731	"This requires prompt action. One of our transporters ran aground and lost its load. Take care of the mess, but be discreet. We don't want to fuss people, do we?"
+114732	"All these abandoned oil rigs... A terrible environmental safety risk for the area in times like these, what with the Orbital Watch terrorism and everything. We should... check to see how unstable they really are. Just in case."
+114733	"You see? Now imagine if the Orbital Watch were to attack this oil rig. We had better gather the materials needed for any eventual repairs. The Arctic Custodians will appreciate it."
+114734	"You heard Dr. Young! Let us overhaul the frame before any more... unforeseen problems occur. The safety of this region is very important to me."
+114735	"The black gold flows. Slowly. We may only tap small amounts at a time. But if there were an incident which were to force us to pump faster... Something like a broken safety valve..."
+114736	"Yes, the oil leakage examination is today! It must have slipped my mind. But you heard the man! Full power! I hope the safety valves can handle the pressure..."
+114737	"Well, it's a good thing the Arctic Custodians have competent experts like us on call. Come, let us take care of this... problem."
+118218	"The pipelines of this rig are ailling. We cannot allow the oil to simply flow into the ocean, so we should seal the leakages."
+118219	"Now, to the dismantling of the oil rig. Keep your team size within the limits specified by the Arctic Custodians, please. I want to prevent any misunderstandings."
+118220	"Always ensure your local authorities' compliance. Now we may begin with the demolition. Ship in our technicians."
+118221	"I'm staying on-site to keep an eye on everything. Could you ensure a steady flow of materials? There's so much we need to properly... stow away the old parts."
+118222	"This requires prompt action! One of our transporters ran aground and lost its load. Clean up the mess, but be discreet. We don't want to fuss people."
+118223	"All these abandoned oil rigs... Such a safety risk for the area, with all the moon terrorism nowadays. We should put their stability to the test. Just in case."
+118224	"See? Now imagine it had been the Orbital Watch. We better acquire the materials necessary for the eventual repairs. The Arctic Custodians will appreciate it."
+118225	"You heard Dr. Young! Let us overhaul the frame before anything happens. We'll need enough fuel for our welders. The safety of this region is very dear to me."
+118226	"We can't leave the Arctic Custodians to do all the hard work, this is our responsibility now. So we'll need our own crew for it."
+118227	"And now the hands-on repairs! Our expert team is most trustworthy. So don't trouble yourself with the supervision. I'm here too, after all!"
+118228	"The black gold flows. Slowly. We may only tap small amounts at a time. But if there were an occurence, forcing us to pump faster. Like broken security valves..."
+118229	"The oil leakage examination is today! It must have slipped my mind. But you heard it! Full power! I hope the security valves can handle the pressure..."
+118230	"Well, good the Arctic Custodians have competent experts like us on call. Come, let us take care of this... problem."
+118231	"The rigs are more than the Custodians can handle! But with your settlement nearby we could maintain a crew to monitor the rig. At all times."
+118232	"Good news! We're officially responsible for emptying this rig to prevent any further problems. The crew is here, too. Let's start the long-term surveillance."
+109044	"I had hoped to meet you here. I know you are unlike other CEOs. You don't shy at making uncomfortable decisions where our environment is concerned. That's why I want to offer you this opportunity. "
+115250	Reach a Corporation Level of 12 to continue the drilling process.
+115251	Reach a Corporation Level of 24 to continue the drilling process.
+114921	"To freely quote a long-dead fellow countryman: You need oil. There is oil. It's that easy."
+120053	Exploit the Arctic oil deposits by taking control over three old oil rigs.
+114824	[NOTIFICATION_CHARACTER_NAME] congratulates you on the first channel and will prepare for the second one.
+114825	[NOTIFICATION_CHARACTER_NAME] is already looking into expanding the project in the future.
+114826	[NOTIFICATION_CHARACTER_NAME] appreciates the result and thanks you for the collaboration.
+114831	<font [MINIMAPDOT_COLOR 2001947]>+100 Logistic</font> in this sector
+114834	<font [MINIMAPDOT_COLOR 2001947]>+100 Logistic</font> in this sector
+114837	<font [MINIMAPDOT_COLOR 2001947]>+100 Logistic</font> in this sector
+119922	<font [MINIMAPDOT_COLOR 2001947]>+50 Logistic</font> in this sector
+120381	<font [MINIMAPDOT_COLOR 2001947]>+100 Logistic</font> in this sector
+120382	<font [MINIMAPDOT_COLOR 2001947]>+200 Logistic</font> in this sector
+115474	[NOTIFICATION_CHARACTER_NAME] unveils a new business endeavor: an arctic trade route.
+115473	[NOTIFICATION_CHARACTER_NAME] wants you to appease the Arctic Custodians in exchange for joint use.
+115475	[NOTIFICATION_CHARACTER_NAME] assures you the project complies to ethical standards.
+116394	[NOTIFICATION_CHARACTER_NAME] wants your cooperation in securing the food supply.
+116395	[NOTIFICATION_CHARACTER_NAME] is planning the second channel.
+116396	[NOTIFICATION_CHARACTER_NAME] will inform you when the time is ripe.
+116397	[NOTIFICATION_CHARACTER_NAME] is deeply grateful for your help.
+116402	[NOTIFICATION_CHARACTER_NAME] offers to join you in a partnership.

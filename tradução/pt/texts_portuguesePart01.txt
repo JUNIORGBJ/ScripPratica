@@ -33,9 +33,9 @@
 103250	Carregue seu veículo com [CONDITION_DELIVERY_AMOUNT] [CONDITION_DELIVERY_GOODS] de seu espaçoporto
 108995	Carregue seu veículo com [CONDITION_DELIVERY_AMOUNT] [CONDITION_DELIVERY_GOODS] de seu espaçoporto [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
 103251	Entregue a carga a <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font>
-108996	Entregue a carga a [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
-108477	Pegue a carga em <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font>
 108997	Pegue a carga em [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
+108477	Pegue a carga em <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font>
+108996	Entregue a carga a [CONDITION_SOURCE_OBJECT_ASSET] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
 116458	Entregue a carga a <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font>
 116462	Pegar a carga no <font [MINIMAPDOT_COLOR 2001947]>[CONDITION_SOURCE_OBJECT_ASSET]</font>
 105099	Destruir [CONDITION_AMOUNT_COUNTER_AMOUNT] [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
@@ -98,11 +98,11 @@
 100302	na região [CONDITION_PROFILE_COUNTER_SCOPE_CONTEXT]
 108934	Mantenha um estoque de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 117934	Mantenha uma conta bancária de [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
-108935	Mantenha uma produção excessiva de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
-117925	Mantenha um nível de mão de obra [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+108936	Mantenha uma produção de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117912	Alcance um saldo de Mão de Obra [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 117926	Mantenha um equilíbrio de energia [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 117927	Mantenha um saldo de crédito de [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
-108936	Mantenha uma produção de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+108935	Mantenha uma produção excessiva de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 117928	Mantenha uma oferta de trabalho [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 117929	Mantenha uma produção de energia [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 117930	Mantenha a receita de crédito [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
@@ -118,16 +118,16 @@
 117910	Tenha créditos
 100827	Alcance um equilíbrio entre [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 117911	Alcance um saldo de Energia [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
-117912	Alcance um saldo de Mão de Obra [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 117913	Alcance um saldo de crédito [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117921	Tenha uma despesa de crédito [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 100819	Produza [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
-117922	Distribua Mão de Obra [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117919	Utilize mão de obra [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 117923	Produza Energia [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 117924	Gere uma receita de crédito [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 108930	Consuma [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
-117919	Utilize mão de obra [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 117920	Utilize energia [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
-117921	Tenha uma despesa de crédito [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+115439	Demolir [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+115325	Gaste créditos comprando de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
 100092	[CONDITION_PROFILE_COUNTER_COUNTER_TEXT]
 116548	[CONDITION_PROFILE_COUNTER_VALUE_QUESTSTART]
 100813	[CONDITION_PROFILE_COUNTER_VALUE_CURRENT] / [CONDITION_PROFILE_COUNTER_VALUE]
@@ -161,23 +161,23 @@
 115276	Ganhe créditos de uma única rota de transferência para o mercado mundial
 115278	Gaste créditos em uma única rota de transferência para o mercado mundial
 115324	Ganhe créditos vendendo mercadorias para [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
-115325	Gaste créditos comprando de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
-115326	Ganhe créditos vendendo [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
 115327	Gaste créditos comprando [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
+115326	Ganhe créditos vendendo [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
+108931	NO LOCA Sessionwide [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] Saldo
 115337	Concluir tarefas opcionais de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 115338	Complete missões opcionais de eventos de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 117915	Recusar tarefas opcionais de [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
-115439	Demolir [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+115461	Construa um [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 115442	Ganhe pontos de conquista
 115443	Construa e conecte um [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT]
 115444	Não tem conexão de rua para [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
-115461	Construa um [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
+117970	Construa [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] e ligue ao [GUIDNAME 1000157]
 117917	Ganhe experiência de combate
 117918	Alcance o nível militar
 109008	Satisfaça a necessidade de [CONDITION_POPULATION_NEEDS_GOOD]
 105557	Satisfaça a necessidade de [CONDITION_POPULATION_NEEDS_GOOD] [CONDITION_CONDITIONAL_SESSION_TEXT_FRAGMENT]
 105558	[CONDITION_POPULATION_NEEDS_CURRENT_VALUE] / [CONDITION_POPULATION_NEEDS_AMOUNT]%
-108931	NO LOCA Sessionwide [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] Saldo
+103137	Comece a [CONDITION_SOURCE_OBJECT_ASSET] em [CONDITION_OBJECT_SESSION]
 108932	NO LOCA Sessionwide [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] provided
 108933	NO LOCA Sessionwide [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] used
 100690	Tempo restante
@@ -204,14 +204,14 @@
 104916	Comece a aprimorar seu espaçoporto em [CONDITION_OBJECT_SESSION] com um elevador espacial
 104917	Comece a aprimorar seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto global
 104918	Comece a aprimorar seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto orbital
-104919	Comece a aprimorar seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto de transmissão
+104924	Aprimore seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto de transmissão
 104920	Conclua o aprimoramento do espaçoporto em [CONDITION_OBJECT_SESSION]
 104921	Conclua o aprimoramento do espaçoporto em [CONDITION_OBJECT_SESSION]
 104922	Conclua o aprimoramento do espaçoporto em [CONDITION_OBJECT_SESSION]
 104923	Conclua o aprimoramento do espaçoporto em [CONDITION_OBJECT_SESSION]
 104926	Aprimore seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto global
 104925	Aprimore seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto orbital
-104924	Aprimore seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto de transmissão
+104934	Aprimore seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto de transmissão
 104927	Comece a atualizar seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto global
 104928	Comece a aprimorar seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto orbital
 104929	Comece a aprimorar seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto de transmissão
@@ -219,9 +219,9 @@
 104931	Conclua o aprimoramento do espaçoporto em [CONDITION_OBJECT_SESSION]
 104932	Conclua o aprimoramento do espaçoporto em [CONDITION_OBJECT_SESSION]
 104933	Aprimore seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto orbital
-104934	Aprimore seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto de transmissão
-104935	Comece a aprimorar seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto orbital
 104936	Comece a aprimorar seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto de transmissão
+104935	Comece a aprimorar seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto orbital
+104919	Comece a aprimorar seu espaçoporto em [CONDITION_OBJECT_SESSION] para um espaçoporto de transmissão
 104937	Conclua o aprimoramento do espaçoporto em [CONDITION_OBJECT_SESSION]
 104938	Conclua o aprimoramento do espaçoporto em [CONDITION_OBJECT_SESSION]
 105566	Aprimore seu espaçoporto com um elevador espacial
@@ -252,13 +252,13 @@
 105585	Conclua o aprimoramento da plataforma de lançamento em seu espaçoporto
 105586	Conclua o aprimoramento do transmissor de energia em seu espaçoporto
 102517	Aprimore [CONDITION_SOURCE_OBJECT_ASSET] em [CONDITION_OBJECT_SESSION]
-103137	Comece a [CONDITION_SOURCE_OBJECT_ASSET] em [CONDITION_OBJECT_SESSION]
 103269	Conclua o [CONDITION_SOURCE_OBJECT_ASSET] em [CONDITION_OBJECT_SESSION]
+116501	em [CONDITION_OBJECT_SESSION]
 121282	Distribua o [CONDITION_SOURCE_OBJECT_ASSET_FROM_PARENT] a um [CONDITION_TARGET_OBJECT_ASSET_FROM_PARENT]
 105411	Limpe o setor em crise [CONDITION_ACTIVE_SESSION_SESSION]
 102650	Promova empregados que morem em um prédio residencial específico.
 117380	Alcance o próximo nível corporativo.
-116501	em [CONDITION_OBJECT_SESSION]
+117922	Distribua Mão de Obra [CONDITION_PROFILE_COUNTER_SCOPE_TEXT]
 102518	Programa de Licenciamento Lunar
 103058	Fase 1
 103059	Fase 2
@@ -271,17 +271,17 @@
 105217	[NOTIFICATION_CHARACTER_NAME] informa a chegada da equipe de construção.
 105220	[NOTIFICATION_CHARACTER_NAME] avalia que você forneça comida orgânico para a população.
 105441	[NOTIFICATION_CHARACTER_NAME] está satisfeito com a produção de biopolímero em funcionamento.
-117970	Construa [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] e ligue ao [GUIDNAME 1000157]
+117970	Build [CONDITION_PROFILE_COUNTER_CONTEXT_OBJECT] and connect it to the [GUIDNAME 1000157]
 105212	"Seu espaçoporto contem equipamentos high-end. É necessário operadores qualificados."
-105388	A Primeira Colonização Lunar sobreviveu cem anos. Hoje, a mineração lunar é supervisionada pela Lunar Excavation Corp. A LEC perdeu a confiança da União Global há muito tempo e foi deixada de lado. Ainda assim, levou décadas para a União Global iniciar um novo programa de colonização lunar. Prevalecendo contra essas cinco gigantescas corporações dominando o mercado mundial, vai exigir que você invista apenas a melhores tecnologia espaciais.
+105388	A Primeira Colonização Lunar sobreviveu cem anos. Hoje, a mineração lunar é supervisionada pela Lunar Excavation Corp. A LEC perdeu a confiança da União Global há muito tempo e foi deixada de lado. Ainda assim, levou décadas para a União Global iniciar um novo programa de colonização lunar. Prevalecendo contra essas cinco gigantescas corporações dominando o mercado mundial, vai exigir que você invista apenas a melhores tecnologia espaciais. And qualified personnel to operate it.
 105215	[NOTIFICATION_CHARACTER_NAME] aponta a demanda do seu programa espacial por pessoa qualificada.
 105216	[NOTIFICATION_CHARACTER_NAME] sabe que sua corporação cresce e precisa de maiores desafios.
 105218	[NOTIFICATION_CHARACTER_NAME] boas vindas ao seu esforço para garantir o abastecimento de água.
 105221	[NOTIFICATION_CHARACTER_NAME] fala muito de seu centro de informações construído.
 105222	[NOTIFICATION_CHARACTER_NAME] e seus rivais falam sistemas de controle do espaçoporto.
 105398	"Um longo caminho pela frente. O elevador espacial levará à sede orbital da União Global."
-105399	O imprevisível Relógio Orbital abalou o mundo. Todas  as colônias da corporação de Escavação Lunar se uniram aos terroristas e suspenderam as entregas de recursos para a Terra. Os moradores da Lua, que se recusam a seguir o caminho de Virgílio Drake, vivem em perigo. Alguns podem voltar para a Terra, mas muitos não terão essa oportunidade. A exigência de Drake de perder o Programa de Licenciamento Lunar coloca a União Global em um lugar ruim. Mas para o bem de toda a humanidade, o programa tem que continuar.
-105413	[NOTIFICATION_CHARACTER_NAME] quer que você construa um elevador espacial para a estação espacial Global Union.
+105399	O imprevisível Relógio Orbital abalou o mundo. Todas  as colônias da corporação de Escavação Lunar se uniram aos terroristas e suspenderam as entregas de recursos para a Terra. Os habitantes da Lua, que se recusam a seguir a retórica rude de Virgil Drake, vivem com medo da opressão. Alguns podem voltar para a Terra, mas muitos não terão essa oportunidade. A exigência de Drake de perder o Programa de Licenciamento Lunar coloca a União Global em um lugar ruim. Mas para o bem de toda a humanidade, o programa tem que continuar. 105413	[NOTIFICATION_CHARACTER_NAME] quer que você construa um elevador espacial para a estação espacial Global Union.
+105445	[NOTIFICATION_CHARACTER_NAME] quer que você volte para o local do espaçoporto.
 105414	[NOTIFICATION_CHARACTER_NAME] anuncia a chegada de entregas de materiais adicionais.
 105219	[NOTIFICATION_CHARACTER_NAME] informa que materiais adicionais serão entregues, especificamente para o cabo do elevador.
 117873	[NOTIFICATION_CHARACTER_NAME] sabe que um bom empregador mantém sua equipe satisfeita - como você.
@@ -297,8 +297,8 @@
 105438	Liberte os transportadores detidos
 105410	"Que esses terroristas lunares continuem suas tentativas de intimidação. O programa espacial é muito importante para o povo da Terra."
 105423	Preocupado com a situação na Lua, [NOTIFICATION_CHARACTER_NAME] exorta você a terminar o elevador espacial.
-105406	A surpresa da Guarda Orbital abalou as fundações do mundo. Uma por uma, as colônias da Lunar Excavation Corp. aliaram-se aos terroristas e suspenderam suas remessas de recursos para a Terra. Os habitantes da Lua, que se recusam a seguir a retórica rude de Virgil Drake, vivem com medo da opressão. Alguns conseguem embarcar em ônibus para pousar, mas muitos outros não têm essa oportunidade. A demanda de Drake para anular o Programa de Licença Lunar coloca a Global Union em uma posição difícil, mas, para o bem da humanidade, ela deve continuar.
-105445	[NOTIFICATION_CHARACTER_NAME] quer que você volte para o local do espaçoporto.
+105406	A surpresa da Guarda Orbital abalou as fundações do mundo. aliaram-se aos terroristas e suspenderam suas remessas de recursos para a Terra. Os moradores da Lua, que se recusam a seguir o caminho de Virgílio Drake, vivem em perigo. Alguns conseguem embarcar em ônibus para pousar, mas muitos outros não têm essa oportunidade. A demanda de Drake para anular o Programa de Licença Lunar coloca a Global Union em uma posição difícil, mas, para o bem da humanidade, ela deve continuar.
+105445	[NOTIFICATION_CHARACTER_NAME] wants you to return to the spaceport site.
 117371	Conclui o aprimoramento
 105460	"O Ártico contém recursos que não são encontrados em nenhum outro lugar. Você deve considerar uma filial lá."
 105469	A segunda fase do Programa de Licenciamento Lunar já começou. Ele aponta diretamente para o Pólo Norte, o tesouro coberto de neve dos últimos tesouros da Terra. Protegendo as poucas fontes restantes de petróleo bruto e o único ecossistema que ainda produz peixes em quantidades capturáveis, a organização ambientalista chamada de Custódios do Ártico manteve uma guarda severa aqui por quase dois séculos. Mas do jeito que as coisas estão, os guardiões devem compartilhar seu paraíso branco com empresas privadas. Eles não estão felizes com isso.

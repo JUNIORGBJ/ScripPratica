@@ -118,9 +118,9 @@
 3002991	NO LOCA All rare material storages in a crisis sector
 3002992	NO LOCA All rare material storages in a crisis sector
 3002993	NO LOCA Lose all ships in a Crisis Sector
-3003258	NO LOCA Área de construção Terra reivindicada
-3003260	NO LOCA Área de construção Ártica reivindicada
-3003261	NO LOCA Área de construção Lua reivindicada
+3003258	NO LOCA Construction Area Claimed Earth
+3003260	NO LOCA Construction Area Claimed Arctic
+3003261	NO LOCA Construction Area Claimed Moon
 3003222	NO LOCA Special Action Barrage
 3003223	NO LOCA Special Action Support Fleet
 3003224	NO LOCA Special Action EMP
@@ -133,84 +133,84 @@
 3003242	NO LOCA Boss Ship Destroyed
 3002937	Slot Warning Antagonistic Message Trigger
 3002939	Slot Warning Friendly Message Trigger
-3003201	Plantas Lunares
-3003202	Cartas de casa
-3003203	Você é o que você come
-3003204	Aniversario monumental
-3003205	Alta costura
-3003206	As fundações de Noé
-3003207	Elegante
-3003208	Turismo
-3003210	Mergulhadores de gelo
-3003211	Dia da Toalha
-3003212	Tem gosto de casa
-3003214	Uma maçã por dia
-3003215	O melhor amigo da humanidade
+3003201	Lunar Plants
+3003202	Letters from Home
+3003203	You Are What You Eat
+3003204	Monumental Anniversary
+3003205	Haute Couture
+3003206	The Noah Foundation
+3003207	En Vogue
+3003208	Sightseeing
+3003210	Ice Divers
+3003211	Towel Day
+3003212	Tastes Like Home
+3003214	An Apple a Day
+3003215	Humanity's Best Friend
 3003216	Pet Marimo
-3003310	Papai Noel
+3003310	Saint Nic
 3003311	NO LOCA Presents Reset Quest - Christmas Event End
-3003316	Debaixo da árvore de natal
-5000000	Temperado
-5000001	Árctico
+3003316	Underneath the Christmas Tree
+5000000	Temperate
+5000001	Arctic
 5000002	Lunar
 5001020	[GUIDNAME 120058]
-5001002	Setor Temperado
-5001003	Setor Temperado
-5001004	Setor Temperado
-5001011	Setor Temperado em Crise
-5001019	Docas
-5001021	Centro de Tarefas
-5001005	Setor Ártico
-5001006	Setor Ártico
-5001007	Setor Ártico
-5001024	Setor Ártico em crise
-5001008	Setor Lunar
-5001009	Setor Lunar
-5001010	Setor Lunar
+5001002	Temperate Sector
+5001003	Temperate Sector
+5001004	Temperate Sector
+5001011	Temperate Crisis Sector
+5001019	Docks
+5001021	Assignment Center
+5001005	Arctic Sector
+5001006	Arctic Sector
+5001007	Arctic Sector
+5001024	Arctic Crisis Sector
+5001008	Lunar Sector
+5001009	Lunar Sector
+5001010	Lunar Sector
 5100027	NO LOCA MetaSession
-5100372	Estação Espacial
-5100012	Cabo Amber
-5100383	O Cabo Amber é um aglomerado de ilhas que permite fácil acesso a muitas das riquezas do mar. Rumores dizem que existem tecnologias perdidas abaixo da superfície.
-5100488	O Cabo Amber é um aglomerado de ilhas que permite fácil acesso a muitas das riquezas do mar.
-5100000	Bacia de Walbruck
-5100384	Com uma ilha remota e várias outras grandes, a Bacia de Walbruck é rica em recursos minerais e oferece amplo espaço para colonização.
-5100489	A bacia é famosa por sua barragem desativada que foi deixada em ruínas há décadas.
-5100013	Enseada de Viridian
-5100385	Uma pequena ilha dificilmente colonizável é a porta de entrada para as vastas planícies da enseada de Viridian. A bela paisagem é o local do mais recente projeto de prestígio da União Global.
-5100490	Uma pequena ilha dificilmente colonizável é a porta de entrada para as vastas planícies da enseada de Viridian.
-5100392	Missão: Barricada Prycomber
+5100372	Space Station
+5100012	Cape Ambar
+5100383	Cape Ambar is a cluster of islands, allowing easy access to the many riches of the sea. Rumor has it lost technologies lie just beneath the surface.
+5100488	Cape Ambar is a cluster of  islands allowing easy access to the many riches of the sea.
+5100000	Walbruck Basin
+5100384	With one remote and several large islands, Walbruck Basin is rich in mineral resources and provides ample room for settlement. The basin is known for its defunct dam, which fell into ruin decades ago.
+5100489	With one remote and several large islands, Walbruck Basin is rich in mineral resources and provides ample room for settlement.
+5100013	Viridian Coves
+5100385	A small, hardly colonizable island is the gate to the vast plains of Viridian Coves. The beautiful scenery is the site of Global Union's latest prestige project.
+5100490	A small, hardly colonizable island is the gate to the vast plains of Viridian Coves.
+5100392	Mission: Prycomber Barricade
 5100007	[GUIDNAME 5100392]
 5100131	[GUIDNAME 5100392]
 5100132	[GUIDNAME 5100392]
-5100393	Missão: Covil de Tynemere
+5100393	Mission: Tynemere Hideout
 5100136	[GUIDNAME 5100393]
 5100137	[GUIDNAME 5100393]
 5100138	[GUIDNAME 5100393]
 5100402	[GUIDNAME 5100392]
 5100403	[GUIDNAME 5100392]
 5100127	NO LOCA Temperate Region Market
-5100014	Icebergs Akia
-5100386	Os Icebergs Akia são formados por quatro ilhas de tamanho semelhante que oferecem muitos terrenos para construção. Essa área já despertou o interesse de outro player global que quer expandir suas rotas comerciais.
-5100015	Geleiras Ikkuma
-5100387	Os picos das montanhas levam as Geleiras Ikkuma, onde não há espaço para quase nada. Muitas plataformas de petróleo desativadas ainda afligem o mar e os guardiões do Ártico as vigiam de perto.
-5100016	Protetorado de Kinngait
-5100388	O Protetorado de Kinngait tem duas grandes ilhas que hospedam um dos estabilizadores climáticos dos Guardiões do Ártico. Deveria ter sido reformado há muito tempo.
-5100394	Missão: Zona de Conflito Qannitaq
+5100014	Akia Floes
+5100386	Four islands of roughly equal size comprise the Akia Floes, offering extensive building land. This area has already drawn the interest of another global player looking to expand their trade routes.
+5100015	Ikkuma Glacier
+5100387	Towering mountains reach up at Ikkuma Glacier, leaving little room for else. Many disused oil rigs still afflict the sea and the Arctic Custodians keep close watch on them.
+5100016	Kinngait Protectorate
+5100388	The Kinngait Protectorate contains two large islands, sheltering one of the Arctic Custodian's Climate Stabilizers. Its renewal has been due for some time.
+5100394	Mission: Qannitaq Conflict Zone
 5100031	[GUIDNAME 5100394]
 5100133	[GUIDNAME 5100394]
 5100134	[GUIDNAME 5100394]
-5100395	Missão: Linha de Defesa Tonrar
+5100395	Mission: Tonrar Defense Line
 5100139	[GUIDNAME 5100395]
 5100140	[GUIDNAME 5100395]
 5100141	[GUIDNAME 5100395]
 5100128	NO LOCA Arctic Market
-5100002	Cratera de Novikov
-5100389	A cratera de Novikov é cercada por colinas lunares, com uma pequena cratera irmã bem próxima a ela. Marcada por uma fenda profunda, é difícil de navegar mas oferece um espaço generoso de acomodação para quem procura uma nova casa.
-5100018	Cratera de Iwamoto
-5100390	Os meteoroides causaram, ao colidir essas três crateras deformadas que são conhecidas coletivamente como Crateras de Iwamoto. Além de oferecer oportunidades de mineração, o que atrai colonos para este lugar são os recursos encontrados nos restos de estrelas cadentes.
-5100019	Maré Relictum
-5100391	Formando um círculo quase perfeito perfurado por uma montanha solitária, a Maré Relictum é uma formação natural imponente.
-5100129	Mercado lunar
+5100002	Novikov Crater
+5100389	The Novikov Crater lies encased by lunar hills, with a slightly smaller sister crater just next to it. Cleaved by a deep crack, it is tricky to navigate, but offers generous settling space for whoever seeks a new home.
+5100018	Iwamoto Crater
+5100390	Meteoroid crashes created these three deformed craters, collectively labeled Iwamoto Crater. Aside from their inherent mining opportunities, it is the resources waiting inside the scattered fallen stars, that draw colonists here.
+5100019	Mare Relictum
+5100391	Forming an almost perfect circle pierced by a lone mountain, the Mare Relictum is a breath-taking natural formation. Strong voices are calling for its opening to the paying public.
+5100129	Moon Market
 5100110	NO LOCA Session Default Earth
 5100111	NO LOCA Session Default Polar
 5100112	NO LOCA Session Default Moon
@@ -224,19 +224,19 @@
 5100371	NO LOCA ContentDesignTest easy
 5100135	NO LOCA Benchmark Session
 5100028	NO LOCA MetaSession
-6000376	Porta Contêiner Pequeno
-6000460	Porta Contêiner Médio
-6000474	Porta Contêiner Grande
-6000378	Quebra-Gelo Grande
-6000475	Quebra-Gelo Médio
-6000476	Quebra-Gelo Grande
-6000495	Elevador Pequeno
-6000496	Elevador Médio
-6000497	Elevador Grande
-6000437	Transporte de Carga Pequena
-6000477	Transporte de Carga Media
-6000478	Transporte de Carga Grande
-6000551	Experiencia de Combate
+6000376	Small Container Ship
+6000460	Medium Container Ship
+6000474	Large Container Ship
+6000378	Small Icebreaker
+6000475	Medium Icebreaker
+6000476	Large Icebreaker
+6000495	Small Elevator Car
+6000496	Medium Elevator Car
+6000497	Large Elevator Car
+6000437	Small Cargo Shuttle
+6000477	Medium Cargo Shuttle
+6000478	Large Cargo Shuttle
+6000551	Combat Experience
 6000501	[GUIDNAME 1001632]
 6000502	[GUIDNAME 1001634]
 6000504	[GUIDNAME 1001378]
@@ -245,9 +245,9 @@
 6000505	[GUIDNAME 1001379]
 6000516	[GUIDNAME 1001749]
 6000503	[GUIDNAME 1001380]
-6000544	NO LOCA Module Construction Permit electronics & Biotecnología logistics
-6000545	NO LOCA Module Construction Permit electronics & Biotecnología energy
-6000546	NO LOCA Module Construction Permit electronics & Biotecnología workforce
+6000544	NO LOCA Module Construction Permit electronics & biotech logistics
+6000545	NO LOCA Module Construction Permit electronics & biotech energy
+6000546	NO LOCA Module Construction Permit electronics & biotech workforce
 6000541	NO LOCA Module Construction Permit heavy & mining logistics
 6000542	NO LOCA Module Construction Permit heavy & mining energy
 6000543	NO LOCA Module Construction Permit heavy & mining workforce
@@ -264,53 +264,53 @@
 9999018	NO LOCA Citizens
 9999019	NO LOCA Citizens
 9999022	NO LOCA Soy Compactor
-4000208	Frota
-4000213	qualquer comerciante
-4000214	barcos inimigos
-4000216	barcos do jogador
-4000226	qualquer unidade de terceiros
-4000243	qualquer mercadoria da região temperada
-4000244	qualquer mercadoria ártica
-4000245	qualquer mercadoria da lua
-4000260	qualquer mercadoria
-4000259	Materiais Raros
-4000246	qualquer edifício da região temperada
-4000247	qualquer edifício ártica
-4000248	qualquer edifício lunar
-4000229	qualquer edifício
-4000249	qualquer módulo de produção da região temperada
-4000250	qualquer módulo de manutenção da região temperada
-4000251	qualquer módulo de produção do Ártico
-4000252	qualquer módulo de manutenção do Ártico
-4000253	qualquer módulo de produção da Lua
-4000254	qualquer módulo de manutenção da Lua
-4000278	qualquer módulo de produção
-4000410	qualquer módulo
-4000257	qualquer módulo
-4000266	qualquer corporação
-4000326	qualquer edifício ornamental
-4000327	qualquer edifício ornamental de região temperada
-4000328	qualquer edifício ornamental ártico
-4000329	qualquer edifício ornamental lunar
-4000337	qualquer módulo da sede corporativa
-4000330	qualquer setor em crise
-4000331	Barricada de Prycomber
-4000332	Covíl Tynemere
-4000333	Zona de conflito Qannitaq
-4000334	Linha de defesa Tonrar
-4000371	qualquer ponte
-4000394	qualquer ação especial
-4000411	qualquer setor
-4000412	Calor
-4000413	qualquer centro de distribuição
-4100037	Integridade
+4000208	Fleet
+4000213	any trader
+4000214	enemy ships
+4000216	player ships
+4000226	any third party
+4000243	any Temperate Region good
+4000244	any Arctic good
+4000245	any Moon good
+4000260	any good
+4000259	Rare Materials
+4000246	any Temperate Region building
+4000247	any Arctic building
+4000248	any Moon building
+4000229	any building
+4000249	any Temperate Region production module
+4000250	any Temperate Region maintenance module
+4000251	any Arctic production module
+4000252	any Arctic maintenance module
+4000253	any Moon production module
+4000254	any Moon maintenance module
+4000278	any production module
+4000410	any module
+4000257	any module
+4000266	any corporation
+4000326	any ornamental building
+4000327	any Temperate Region ornamental building
+4000328	any Arctic ornamental building
+4000329	any Moon ornamental building
+4000337	any corporation HQ module
+4000330	any crisis sector
+4000331	Prycomber Barricade
+4000332	Tynemere Hideout
+4000333	Qannitaq Conflict Zone
+4000334	Tonrar Defense Line
+4000371	any bridge
+4000394	any special action
+4000411	any sector
+4000412	Heat
+4000413	any distribution center
+4100037	Integrity
 4100035	Tundra
-10000114	Gerador de <font [MINIMAPDOT_COLOR 2001947]>Irídio</font>
+10000114	<font [MINIMAPDOT_COLOR 2001947]>Iridium</font> generator
 10000115	[GUIDNAME 10000114]
 10000116	[GUIDNAME 10000114]
-10000118	[NOTIFICATION_CHARACTER_NAME] deixa seu tesouro em boas mãos.
-10000119	[NOTIFICATION_CHARACTER_NAME] sempre cumpre sua parte no trato.
-10000120	[NOTIFICATION_CHARACTER_NAME] expressa sua profunda gratidão.
-10000177	[NOTIFICATION_CHARACTER_NAME] obrigado por cuidar da Gordinha.
-10000040	Se você colocou a luva neste disco, significa que estou nocauteado. Preste atenção, eu registrei isso para você aproveitar! Para esta caça ao tesouro, você precisará de um mapa do tesouro. Eu o escondi naquela caverna ao norte...
-10000041	Uau, se este registro foi ativado significa que você o encontrou! Ou pelo menos seu dispositivo de rastreamento, é por isso que eu sei. É melhor você pegar o mapa também, porque vai precisar dos números nele para encontrar meu estoque.
+10000118	[NOTIFICATION_CHARACTER_NAME] is leaving his treasure in good hands.
+10000119	[NOTIFICATION_CHARACTER_NAME] always keeps his side of the deal.
+10000120	[NOTIFICATION_CHARACTER_NAME] expresses his deep gratitude.
+10000177	[NOTIFICATION_CHARACTER_NAME] thanks you for taking care of the Fat Lady.
+10000040	If you got your grabby hands on this log... I really must've bit the grass. Pay attention, I recorded this for your benefit! For this treasure hunt you're gonna need a treasure map. I hid it in that crevice just up north...
+10000041	Hah, this log triggered so you found it! Or at least its tracker, that's how I know. You better got the map too, cause you need the numbers mumbo jumbo on it to find my stash.
