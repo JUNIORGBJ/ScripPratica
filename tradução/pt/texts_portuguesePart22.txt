@@ -240,7 +240,7 @@
 111425	I'm relying on ya, y'know?
 111426	Get on wit ya, you'll be fine!
 111427	Work going alright?
-111428	Vai levar um tempo...
+111428	You sure take your time...
 111429	Nowt for it, got be done.
 111430	Yeah, away with you! Just keep goin'!
 111431	Work just never ends, eh?
