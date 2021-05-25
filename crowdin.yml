@@ -1,0 +1,3 @@
+files:
+  - source: /Arquivos.Originais/
+    translation: /tradução/%two_letters_code%/%original_file_name%
