@@ -144,7 +144,7 @@
 112476	We have that one in the assignment survey.
 112477	The tracking number's correct. That should be it.
 112478	Oh, yes, I think that's it.
-112479	Localização confirmada.
+112479	Location confirmed.
 112480	Heads-up memo is out. They're expecting you.
 112481	Coordinates transmitted.
 112482	Confirmation received. This is the target location.
