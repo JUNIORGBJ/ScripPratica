@@ -5,4 +5,5 @@
 1224334179	We got a joker here!
 
 
-[![Crowdin](https://badges.crowdin.net/traduo-anno-2205/localized.svg?label=Lan%C3%A7amento&style=for-the-badge)](https://crowdin.com/project/traduo-anno-2205)
+
+[![Crowdin](https://badges.crowdin.net/traduo-anno-2205/localized.svg)](https://crowdin.com/project/traduo-anno-2205)
